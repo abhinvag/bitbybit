@@ -8,6 +8,7 @@ const questionRoutes = require("./routes/questionRoutes");
 const answerRoutes = require("./routes/answerRoutes");
 const commentsRoutes = require("./routes/commentRoutes");
 const path = require("path");
+const jobScheduler = require("./jobs/qod");
 
 const app = express();
 
@@ -28,6 +29,10 @@ app.use(
 // MongoDB Connection
 
 connectDB();
+
+// Schedule Jobs
+
+jobScheduler();
 
 // Routes
 

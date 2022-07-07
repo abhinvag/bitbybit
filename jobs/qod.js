@@ -1,9 +1,10 @@
+const scheduler = require("node-schedule");
 const Question = require("../models/question.model");
 const QOD = require("../models/qod.model");
-const connectDB = require("../config/db");
+//const connectDB = require("../config/db");
 
 const selectQOD = async () => {
-  connectDB();
+  //connectDB();
   const questionList = await Question.find({});
   const idx = Math.floor(Math.random() * questionList.length);
   await QOD.remove({});
@@ -16,4 +17,8 @@ const selectQOD = async () => {
   });
 };
 
-selectQOD();
+const jobScheduler = () => {
+  scheduler.scheduleJob("0 1 * * *", selectQOD);
+};
+
+module.exports = jobScheduler;
