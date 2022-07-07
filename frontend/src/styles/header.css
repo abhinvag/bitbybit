@@ -1,0 +1,42 @@
+.header {
+}
+
+.header-logo-image {
+  width: 20%;
+}
+
+.header-brandName {
+  display: inline;
+  color: #9e9ea7;
+}
+
+.header-links {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-right: 5%;
+}
+
+.header-profile-image {
+  width: 28%;
+}
+
+.header-auth-div {
+  width: 10vw;
+}
+
+.header-auth-inside-div {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.header-auth-a {
+  text-decoration: none;
+  color: #6e6d7a;
+  cursor: pointer;
+}
+
+.header-auth-a:hover {
+  color: #6e6d7a;
+  text-decoration: none;
+}

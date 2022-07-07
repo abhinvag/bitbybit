@@ -1,0 +1,53 @@
+.answer-badge-div {
+  position: relative;
+  margin-top: 3%;
+}
+
+img {
+  width: 5%;
+  border-radius: 50%;
+}
+
+.answer-badge-div-trio {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  top: -7%;
+  left: 8%;
+}
+
+.answer-badge-div-title {
+  font-size: 157%;
+  color: #292b2c;
+  margin-bottom: 0;
+  word-wrap: break-word;
+}
+
+.answer-badge-div-votes {
+  font-size: 84%;
+  color: #292b2c;
+  margin-bottom: 1%;
+}
+
+.answer-badge-div-createdBy {
+  font-size: 65%;
+  color: grey;
+  margin-bottom: 0;
+}
+
+.answer-badge-div-button {
+  position: absolute;
+  right: 5%;
+  top: 32%;
+}
+
+@media screen and (max-width: 992px) {
+  .answer-badge-div-title {
+    font-size: 1rem;
+    width: 68%;
+  }
+
+  .answer-badge-div {
+    height: 26%;
+  }
+}

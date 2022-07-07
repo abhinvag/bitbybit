@@ -1,0 +1,65 @@
+.sheet-div{
+    display: flex;
+    flex-direction: row;
+}
+
+.sheet-questions{
+    width: 70%;
+}
+
+.sheet-linerGauge-div{
+    width: 80%;
+    margin: 5% auto;
+}
+
+.sheet-topic-div{
+    width: 80%;
+    margin: 2% auto;
+}
+
+.sheet-topic-heading{
+    margin-bottom: 3%;
+}
+
+.sheet-topic-table{
+    text-align: center;
+}
+
+.sheet-topic-table-status {
+}
+
+.sheet-topic-table-name{
+    width: 60%;
+}
+
+.sheet-topic-table-discuss{
+
+}
+
+.sheet-leftActivity-div{
+    width: 30%;
+}
+
+.sheet-radialGauge{
+    margin-top: 9%;
+    display: flex;
+    justify-content: center;
+    width: 85%;
+}
+
+.RadialGaugeLabel-module_valueLabel__1WLmV{
+    display: none !important;
+}
+
+.sheet-setTargetDate{
+    text-align: center;
+    margin-top: 9%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 85%;
+}
+
+.sheet-setTargetDate-calender{
+
+}

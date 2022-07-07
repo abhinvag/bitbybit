@@ -1,0 +1,46 @@
+.questionDisplay {
+  /* margin-left: 15%; */
+  margin-top: 5%;
+  /* padding: 20px 0 20px 0px; */
+  width: 77%;
+  position: relative;
+}
+
+.title {
+  color: #292b2c;
+  margin-bottom: 10px;
+  font-size: 2rem;
+}
+
+.question-display-anchor {
+  color: #fff;
+  text-decoration: none;
+}
+
+.question-display-anchor:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.qdbuttons {
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.buttons-div {
+  display: flex;
+  flex-direction: row;
+}
+
+.cornerButtons{
+  position: absolute;
+  top: 13%;
+  right: 2%;
+}
+
+@media screen and (max-width: 992px) {
+  .questionDisplay {
+    margin-left: 5%;
+    width: 90%;
+  }
+}

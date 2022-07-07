@@ -1,0 +1,128 @@
+.customButton {
+    background-color: #38B6FF !important;
+    border-color: #38B6FF !important;
+    color: #fff !important;
+}
+
+.customButton:visited {
+    background-color: #38B6FF !important;
+    border-color: #38B6FF !important;
+    color: #fff !important;
+}
+
+.customButton:focus {
+    background-color: #38B6FF !important;
+    border-color: #38B6FF !important;
+    color: #fff !important;
+}
+
+.customButton:hover {
+    background-color: #2badf8 !important;
+    border-color: #38B6FF !important;
+    color: #fff !important;
+}
+
+.customButton:active {
+    background-color: #38B6FF !important;
+    border-color: #38B6FF !important;
+    color: #fff !important;
+}
+
+.customButton-white {
+    background-color: #fff !important;
+    border-color: #fff !important;
+    color: #38B6FF !important;
+}
+
+.customButton-white:visited {
+    background-color: #fff !important;
+    border-color: #fff !important;
+    color: #38B6FF !important;
+}
+
+.customButton-white:focus {
+    background-color: #fff !important;
+    border-color: #fff !important;
+    color: #38B6FF !important;
+}
+
+.customButton-white:hover {
+    background-color: rgba(255, 255, 255, 0.932) !important;
+    border-color: #fff !important;
+    color: #2badf8 !important;
+}
+
+.customButton-white:active {
+    background-color: #fff !important;
+    border-color: #fff !important;
+    color: #38B6FF !important;
+}
+
+.customButton-outline {
+    background-color: transparent !important;
+    border-color: #38B6FF !important;
+    color: #38B6FF !important;
+}
+
+.customButton-outline:visited {
+    background-color: transparent !important;
+    border-color: #38B6FF !important;
+    color: #38B6FF !important;
+}
+
+.customButton-outline:focus {
+    background-color: transparent !important;
+    border-color: #38B6FF !important;
+    color: #38B6FF !important;
+}
+
+.customButton-outline:hover {
+    background-color: #38B6FF !important;
+    border-color: #38B6FF !important;
+    color: #fff !important;
+}
+
+.customButton-outline:active {
+    background-color: transparent !important;
+    border-color: #38B6FF !important;
+    color: #38B6FF !important;
+}
+
+
+
+textarea:focus,
+input:focus {
+    border-color: #38B6FF !important;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px #38B6FF !important;
+    outline: 0 none;
+}
+
+.partition-container {
+    min-height: 90.8vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.partition-container-left {
+    width: 50%;
+}
+
+.partition-container-right {
+    width: 50%;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover{
+    text-decoration: none;
+    color: inherit;
+}
+
+.make-white{
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 30px;
+  }

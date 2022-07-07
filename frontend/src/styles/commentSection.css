@@ -1,0 +1,37 @@
+.new-comment-container {
+  margin-top: 2%;
+  position: relative;
+  right: 1.5%;
+}
+
+.first-to-comment-heading {
+  font-size: 1.2rem;
+  color: grey;
+  margin-bottom: 5%;
+}
+
+.complete-comment-div {
+  margin-top: 3%;
+}
+
+.post-button {
+  margin-top: 3%;
+}
+
+@media screen and (max-width: 992px) {
+  .hide-load-button {
+    position: relative;
+    right: 11%;
+    margin-bottom: 2%;
+  }
+
+  .new-comment-container {
+    right: 15%;
+  }
+
+  .complete-comment-div {
+    position: relative;
+    right: 15%;
+    margin-bottom: 2%;
+  }
+}

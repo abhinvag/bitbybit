@@ -1,0 +1,28 @@
+.question-badge-div {
+  width: 100%;
+}
+
+.question-badge-name {
+  font-size: 23px;
+  color: #292b2c;
+  text-decoration: none;
+}
+
+.question-badge-name:hover {
+  color: black;
+}
+
+.question-badge-link {
+  text-decoration: none;
+}
+
+.question-badge-link:hover {
+  text-decoration: none;
+}
+
+
+@media screen and (max-width: 992px) {
+  .question-badge-name {
+    font-size: 15px;
+  }
+}

@@ -1,0 +1,3576 @@
+[{
+   "Array":[
+      {
+         "id":"eaAlEDTa22-W4lPiflWE9",
+         "Topic":"Array",
+         "Problem":"Reverse the array",
+         "Link":"https://practice.geeksforgeeks.org/problems/reverse-a-string/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"McnTeaQWEY87lCWzUuBQI",
+         "Topic":"Array",
+         "Problem":"Find the maximum and minimum element in an array",
+         "Link":"https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"OQjf7WwwRKpA2OLBHFhVX",
+         "Topic":"Array",
+         "Problem":"Find the \"Kth\" max and min element of an array ",
+         "Link":"https://practice.geeksforgeeks.org/problems/kth-smallest-element/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"SyKFRbxJt6nB2WcUVDZAX",
+         "Topic":"Array",
+         "Problem":"Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo",
+         "Link":"https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"i43xTrMy1tpyh1RLsYB_Z",
+         "Topic":"Array",
+         "Problem":"Move all the negative elements to one side of the array ",
+         "Link":"https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"Ev6eORdopfJWUdQhtLaum",
+         "Topic":"Array",
+         "Problem":"Find the Union and Intersection of the two sorted arrays.",
+         "Link":"https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"roYb01C8rTb-x_9FXaOPE",
+         "Topic":"Array",
+         "Problem":"Write a program to cyclically rotate an array by one.",
+         "Link":"https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"FBaLpBb6oFDhxUrhVXdwa",
+         "Topic":"Array",
+         "Problem":"find Largest sum contiguous Subarray [V. IMP]",
+         "Link":"https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"TY4QgguVlPEBCQmki2eTX",
+         "Topic":"Array",
+         "Problem":"Minimise the maximum difference between heights [V.IMP]",
+         "Link":"https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"P9WJfcv6wKnkXrYjrAify",
+         "Topic":"Array",
+         "Problem":"Minimum no. of Jumps to reach end of an array",
+         "Link":"https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"GyWi34nHJFUT9U7BgE6Ii",
+         "Topic":"Array",
+         "Problem":"find duplicate in an array of N+1 Integers",
+         "Link":"https://leetcode.com/problems/find-the-duplicate-number/",
+         "Platform":"Leetcode",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"l5xyIMJ7_pyYlngwSMuP-",
+         "Topic":"Array",
+         "Problem":"Merge 2 sorted arrays without using Extra space.",
+         "Link":"https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"FBaLpBb6oFDhxUrhVXdwa",
+         "Topic":"Array",
+         "Problem":"Kadane's Algo [V.V.V.V.V IMP]",
+         "Link":"https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"4U-Gw8Dn6Y9O2uc74BMeG",
+         "Topic":"Array",
+         "Problem":"Merge Intervals",
+         "Link":"https://leetcode.com/problems/merge-intervals/",
+         "Platform":"Leetcode",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"w0UhcozC61SfudeQSz5-X",
+         "Topic":"Array",
+         "Problem":"Next Permutation",
+         "Link":"https://leetcode.com/problems/next-permutation/",
+         "Platform":"Leetcode",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"OF0pEnNZWuCsKc4Ps1AMR",
+         "Topic":"Array",
+         "Problem":"Count Inversion",
+         "Link":"https://practice.geeksforgeeks.org/problems/inversion-of-array/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"vRRe59UEn_zDVRr2QCxmI",
+         "Topic":"Array",
+         "Problem":"Best time to buy and Sell stock",
+         "Link":"https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+         "Platform":"Leetcode",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"7F9_cAlCFhJKQOOo4z7J_",
+         "Topic":"Array",
+         "Problem":"find all pairs on integer array whose sum is equal to given number",
+         "Link":"https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"3LmrQYBSCwPA36CfmY-_5",
+         "Topic":"Array",
+         "Problem":"find common elements In 3 sorted arrays",
+         "Link":"https://practice.geeksforgeeks.org/problems/common-elements1132/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"ayl2yIwMU-bN5FchAJuqw",
+         "Topic":"Array",
+         "Problem":"Rearrange the array in alternating positive and negative items with O(1) extra space",
+         "Link":"https://www.geeksforgeeks.org/rearrange-array-alternating-positive-negative-items-o1-extra-space/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"DAcDHquiOwJmCFXucuwFm",
+         "Topic":"Array",
+         "Problem":"Find if there is any subarray with sum equal to 0",
+         "Link":"https://practice.geeksforgeeks.org/problems/subarray-with-0-sum/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"vPHKDTokras5QwGofKt7x",
+         "Topic":"Array",
+         "Problem":"Find factorial of a large number",
+         "Link":"https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"FILQFm4WeMT-uUzPTvRBN",
+         "Topic":"Array",
+         "Problem":"find maximum product subarray ",
+         "Link":"https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"WIurFsxp-ZzD5dqYntcsB",
+         "Topic":"Array",
+         "Problem":"Find longest coinsecutive subsequence",
+         "Link":"https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"YERf2JWFF7MSCoSNqaePa",
+         "Topic":"Array",
+         "Problem":"Given an array of size n and a number k, fin all elements that appear more than \" n/k \" times.",
+         "Link":"https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"pZdBtdCb2rHnRFtauQ5F3",
+         "Topic":"Array",
+         "Problem":"Maximum profit by buying and selling a share atmost twice",
+         "Link":"https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"AGpOHKn3QFLQn-XhZf0qC",
+         "Topic":"Array",
+         "Problem":"Find whether an array is a subset of another array",
+         "Link":"https://practice.geeksforgeeks.org/problems/array-subset-of-another-array/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"t1SmDQwIhcoypkuC5HPHh",
+         "Topic":"Array",
+         "Problem":"Find the triplet that sum to a given value",
+         "Link":"https://practice.geeksforgeeks.org/problems/triplet-sum-in-array/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"lE5r_mODEnEwJ0lqEoJZ8",
+         "Topic":"Array",
+         "Problem":"Trapping Rain water problem",
+         "Link":"https://practice.geeksforgeeks.org/problems/trapping-rain-water/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"Sx5B4b2qNiHj1_45EIjA8",
+         "Topic":"Array",
+         "Problem":"Chocolate Distribution problem",
+         "Link":"https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"mAaZEwxrpVm5-IjyT6fm_",
+         "Topic":"Array",
+         "Problem":"Smallest Subarray with sum greater than a given value",
+         "Link":"https://practice.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"GDEQvTQCkdna66p-FgHRC",
+         "Topic":"Array",
+         "Problem":"Three way partitioning of an array around a given value",
+         "Link":"https://practice.geeksforgeeks.org/problems/three-way-partitioning/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"W_33aLfBnL9kqkEbksZa0",
+         "Topic":"Array",
+         "Problem":"Minimum swaps required bring elements less equal K together",
+         "Link":"https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"Y20abB28DSIovA5oR-yjb",
+         "Topic":"Array",
+         "Problem":"Minimum no. of operations required to make an array palindrome",
+         "Link":"https://practice.geeksforgeeks.org/problems/palindromic-array/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"e0oxuzm58kcwkzhKYikVr",
+         "Topic":"Array",
+         "Problem":"Median of 2 sorted arrays of equal size",
+         "Link":"https://practice.geeksforgeeks.org/problems/find-the-median0527/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"VxgZejggwI4POHGrgBAj7",
+         "Topic":"Array",
+         "Problem":"Median of 2 sorted arrays of different size",
+         "Link":"https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      }
+   ],
+   "Matrix":[
+      {
+         "id":"qp_zvBWXgtpH4xkhQKTiH",
+         "Topic":"Matrix",
+         "Problem":"Spiral traversal on a Matrix",
+         "Link":"https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"XpXTLZ5T2IXjwZp3nezYC",
+         "Topic":"Matrix",
+         "Problem":"Search an element in a matriix",
+         "Link":"https://leetcode.com/problems/search-a-2d-matrix/",
+         "Platform":"Leetcode",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"dUNK8sS8yoh9csfEAY9OR",
+         "Topic":"Matrix",
+         "Problem":"Find median in a row wise sorted matrix",
+         "Link":"https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"LiExwKnsGnAYYk6eISP0J",
+         "Topic":"Matrix",
+         "Problem":"Find row with maximum no. of 1's",
+         "Link":"https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"mZDazKDuUx3xw8t_wckrx",
+         "Topic":"Matrix",
+         "Problem":"Print elements in sorted order using row-column wise sorted matrix",
+         "Link":"https://practice.geeksforgeeks.org/problems/sorted-matrix/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"EyupUTP4ngyZzJEDVCdvv",
+         "Topic":"Matrix",
+         "Problem":"Maximum size rectangle",
+         "Link":"https://practice.geeksforgeeks.org/problems/max-rectangle/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"XrMiv60ska5bOX9cWT9Zm",
+         "Topic":"Matrix",
+         "Problem":"Find a specific pair in matrix",
+         "Link":"https://www.geeksforgeeks.org/find-a-specific-pair-in-matrix/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"MDK-dg8nqFtl7nGkSO9F9",
+         "Topic":"Matrix",
+         "Problem":"Rotate matrix by 90 degrees",
+         "Link":"https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"lD0wmDZrMoLq1t7TLBVdm",
+         "Topic":"Matrix",
+         "Problem":"Kth smallest element in a row-cpumn wise sorted matrix",
+         "Link":"https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"v1mbvEwsTRyhAe12VFgul",
+         "Topic":"Matrix",
+         "Problem":"Common elements in all rows of a given matrix",
+         "Link":"https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      }
+   ],
+   "String":[
+      {
+         "id":"95vTabrz6nVsuc1uL_gtp",
+         "Topic":"String",
+         "Problem":"Reverse a String",
+         "Link":"https://leetcode.com/problems/reverse-string/",
+         "Platform":"Leetcode",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"t8pfilPRpLyG3_uVVuZh5",
+         "Topic":"String",
+         "Problem":"Check whether a String is Palindrome or not",
+         "Link":"https://practice.geeksforgeeks.org/problems/palindrome-string0817/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"VeTTrfVfLokBGJrsibQ1s",
+         "Topic":"String",
+         "Problem":"Find Duplicate characters in a string",
+         "Link":"https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"QFl4Uoe-K5F0YMBY_kmqg",
+         "Topic":"String",
+         "Problem":"Write a Code to check whether one string is a rotation of another",
+         "Link":"https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"JT5HspLDvd9pi5ZH6RGhC",
+         "Topic":"String",
+         "Problem":"Write a Program to check whether a string is a valid shuffle of two strings or not",
+         "Link":"https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings",
+         "Platform":"Programiz",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"U0AohyobbhC1cjbKHZvzQ",
+         "Topic":"String",
+         "Problem":"Count and Say problem",
+         "Link":"https://leetcode.com/problems/count-and-say/",
+         "Platform":"Leetcode",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"z_2tGmTeX2LUM1RL-8gdB",
+         "Topic":"String",
+         "Problem":"Write a program to find the longest Palindrome in a string.[ Longest palindromic Substring]",
+         "Link":"https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"ZVgrxz20X7aTOH8bwS6uH",
+         "Topic":"String",
+         "Problem":"Find Longest Recurring Subsequence in String",
+         "Link":"https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"Zw1tZkiXpQ74qGdOOiMib",
+         "Topic":"String",
+         "Problem":"Print all Subsequences of a string.",
+         "Link":"https://www.geeksforgeeks.org/print-subsequences-string/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"E5YeualK8d2pAeQDQk5I6",
+         "Topic":"String",
+         "Problem":"Print all the permutations of the given string",
+         "Link":"https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"rItT6r1zn_XhbCI7my3Zk",
+         "Topic":"String",
+         "Problem":"Split the Binary string into two substring with equal 0’s and 1’s",
+         "Link":"https://www.geeksforgeeks.org/split-the-binary-string-into-substrings-with-equal-number-of-0s-and-1s/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"3RoBQBJ5tJbmy5HIdAAhH",
+         "Topic":"String",
+         "Problem":"Word Wrap Problem [VERY IMP].",
+         "Link":"https://practice.geeksforgeeks.org/problems/word-wrap/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"yyMoTw9IC3dviA0IHbCF4",
+         "Topic":"String",
+         "Problem":"EDIT Distance [Very Imp]",
+         "Link":"https://practice.geeksforgeeks.org/problems/edit-distance3702/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"-MkTUowdR9rgnRQsjYgtX",
+         "Topic":"String",
+         "Problem":"Find next greater number with same set of digits. [Very Very IMP]",
+         "Link":"https://practice.geeksforgeeks.org/problems/next-permutation/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"zZnrxIS-RpDuPohnB4s9f",
+         "Topic":"String",
+         "Problem":"Balanced Parenthesis problem.[Imp]",
+         "Link":"https://practice.geeksforgeeks.org/problems/parenthesis-checker/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"dPHQqBzw3kRgJy2vvTcQV",
+         "Topic":"String",
+         "Problem":"Word break Problem[ Very Imp]",
+         "Link":"https://practice.geeksforgeeks.org/problems/word-break/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"_Ol-VPAfUTOis7FYPbRzJ",
+         "Topic":"String",
+         "Problem":"Rabin Karp Algo",
+         "Link":"https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"ZML8kapiEXqfM9jIqdgMU",
+         "Topic":"String",
+         "Problem":"KMP Algo",
+         "Link":"https://practice.geeksforgeeks.org/problems/longest-prefix-suffix2527/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"E7iIWNgLCmqVbEkxlHLos",
+         "Topic":"String",
+         "Problem":"Convert a Sentence into its equivalent mobile numeric keypad sequence.",
+         "Link":"https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"cZ3Y5X34L5bt7r7c3bIA_",
+         "Topic":"String",
+         "Problem":"Minimum number of bracket reversals needed to make an expression balanced.",
+         "Link":"https://practice.geeksforgeeks.org/problems/count-the-reversals/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"pYkj-vMRDjHmyp6x7NzI3",
+         "Topic":"String",
+         "Problem":"Count All Palindromic Subsequence in a given String.",
+         "Link":"https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"fvhjFpHJIzhCJMajJy6X5",
+         "Topic":"String",
+         "Problem":"Count of number of given string in 2D character array",
+         "Link":"https://www.geeksforgeeks.org/find-count-number-given-string-present-2d-character-array/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"0oFY2ERnnPD45EGXrrkGU",
+         "Topic":"String",
+         "Problem":"Search a Word in a 2D Grid of characters.",
+         "Link":"https://practice.geeksforgeeks.org/problems/find-the-string-in-grid/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"hKgsENeDdynQGa4qP_bjS",
+         "Topic":"String",
+         "Problem":"Boyer Moore Algorithm for Pattern Searching.",
+         "Link":"https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"FkPREvSsydkPI-UpRsEiu",
+         "Topic":"String",
+         "Problem":"Converting Roman Numerals to Decimal",
+         "Link":"https://practice.geeksforgeeks.org/problems/roman-number-to-integer/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"lvbW-I8PH67lgpcZ6qpl6",
+         "Topic":"String",
+         "Problem":"Longest Common Prefix",
+         "Link":"https://leetcode.com/problems/longest-common-prefix/",
+         "Platform":"Leetcode",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"gsAS8sVHTuOKkCy-dzIVE",
+         "Topic":"String",
+         "Problem":"Number of flips to make binary string alternate",
+         "Link":"https://practice.geeksforgeeks.org/problems/min-number-of-flips/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"AaiG8hNgpodUguHaevttO",
+         "Topic":"String",
+         "Problem":"Find the first repeated word in string.",
+         "Link":"https://practice.geeksforgeeks.org/problems/second-most-repeated-string-in-a-sequence/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"nvZs4IAzi4blsv0L9OnSk",
+         "Topic":"String",
+         "Problem":"Minimum number of swaps for bracket balancing.",
+         "Link":"https://practice.geeksforgeeks.org/problems/minimum-swaps-for-bracket-balancing/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"C2Wx2WyoXhx6Fk2qoDOZX",
+         "Topic":"String",
+         "Problem":"Find the longest common subsequence between two strings.",
+         "Link":"https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"fLzzL9ebwlB-4I6v1Jzzn",
+         "Topic":"String",
+         "Problem":"Program to generate all possible valid IP addresses from given  string.",
+         "Link":"https://www.geeksforgeeks.org/program-generate-possible-valid-ip-addresses-given-string/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"50YhLb-Z5HVAbwcPcJpbN",
+         "Topic":"String",
+         "Problem":"Write a program tofind the smallest window that contains all characters of string itself.",
+         "Link":"https://practice.geeksforgeeks.org/problems/smallest-distant-window/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"fqsHlxermG9NSe_kXHOHG",
+         "Topic":"String",
+         "Problem":"Rearrange characters in a string such that no two adjacent are same",
+         "Link":"https://practice.geeksforgeeks.org/problems/rearrange-characters/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"B-lsSGWIqhVzyhuH48oED",
+         "Topic":"String",
+         "Problem":"Minimum characters to be added at front to make string palindrome",
+         "Link":"https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"QJOm2OqHzQt5tP_vf5ocs",
+         "Topic":"String",
+         "Problem":"Given a sequence of words, print all anagrams together",
+         "Link":"https://practice.geeksforgeeks.org/problems/k-anagrams-1/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"VTACct8cer8ZAFHVgMUCw",
+         "Topic":"String",
+         "Problem":"Find the smallest window in a string containing all characters of another string",
+         "Link":"https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"pWSQM460Nq91tBaVk0VMO",
+         "Topic":"String",
+         "Problem":"Recursively remove all adjacent duplicates",
+         "Link":"https://practice.geeksforgeeks.org/problems/consecutive-elements/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"h_OuEUrXbipAPIX6sNwT1",
+         "Topic":"String",
+         "Problem":"String matching where one string contains wildcard characters",
+         "Link":"https://practice.geeksforgeeks.org/problems/wildcard-string-matching/0",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"DmxPLgzrHUFKlg1jpOI5B",
+         "Topic":"String",
+         "Problem":"Function to find Number of customers who could not get a computer",
+         "Link":"https://www.geeksforgeeks.org/function-to-find-number-of-customers-who-could-not-get-a-computer/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"1yj5Grb_m4InzOzeEqATS",
+         "Topic":"String",
+         "Problem":"Transform One String to Another using Minimum Number of Given Operation",
+         "Link":"https://www.geeksforgeeks.org/transform-one-string-to-another-using-minimum-number-of-given-operation/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"wLOe4ZVRm5OGMKhj3Pwpu",
+         "Topic":"String",
+         "Problem":"Check if two given strings are isomorphic to each other",
+         "Link":"https://practice.geeksforgeeks.org/problems/isomorphic-strings/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"0Ov3r5s_Rm4tJU2LApjue",
+         "Topic":"String",
+         "Problem":"Recursively print all sentences that can be formed from list of word lists",
+         "Link":"https://www.geeksforgeeks.org/recursively-print-all-sentences-that-can-be-formed-from-list-of-word-lists/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      }
+   ],
+   "SearchingAndSorting":[
+      {
+         "id":"L8k-TBFEkFzAiOwyBzBJL",
+         "Topic":"Searching & Sorting",
+         "Problem":"Find first and last positions of an element in a sorted array",
+         "Link":"https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"4z5y_QFJ1vXmoY9V3WktI",
+         "Topic":"Searching & Sorting",
+         "Problem":"Find a Fixed Point (Value equal to index) in a given array",
+         "Link":"https://practice.geeksforgeeks.org/problems/value-equal-to-index-value1330/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"WEznDkUbOb1PaWuuY9f3Z",
+         "Topic":"Searching & Sorting",
+         "Problem":"Search in a rotated sorted array",
+         "Link":"https://leetcode.com/problems/search-in-rotated-sorted-array/",
+         "Platform":"Leetcode",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"D04gDD7L3LGbe5pgUNndM",
+         "Topic":"Searching & Sorting",
+         "Problem":"square root of an integer",
+         "Link":"https://practice.geeksforgeeks.org/problems/count-squares3649/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"QB8omvGMZw6Z2LUGjarHe",
+         "Topic":"Searching & Sorting",
+         "Problem":"Maximum and minimum of an array using minimum number of comparisons",
+         "Link":"https://practice.geeksforgeeks.org/problems/middle-of-three2926/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"0q1puBYt3JdduZCzjI5Cq",
+         "Topic":"Searching & Sorting",
+         "Problem":"Optimum location of point to minimize total distance",
+         "Link":"https://www.geeksforgeeks.org/optimum-location-point-minimize-total-distance/#:~:text=We%20need%20to%20find%20a,set%20of%20points%20is%20minimum.&text=In%20above%20figure%20optimum%20location,is%20minimum%20obtainable%20total%20distance.",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"w4Pj4aGNv9t1g_azSht-o",
+         "Topic":"Searching & Sorting",
+         "Problem":"Find the repeating and the missing",
+         "Link":"https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"lkS1R_mdU9UGSfaR_J4VF",
+         "Topic":"Searching & Sorting",
+         "Problem":"find majority element",
+         "Link":"https://practice.geeksforgeeks.org/problems/majority-element/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"g-snGnjVKpXCApWawYekF",
+         "Topic":"Searching & Sorting",
+         "Problem":"Searching in an array where adjacent differ by at most k",
+         "Link":"https://www.geeksforgeeks.org/searching-array-adjacent-differ-k/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"EreOHz52kGoGNvUCcD4dt",
+         "Topic":"Searching & Sorting",
+         "Problem":"find a pair with a given difference",
+         "Link":"https://practice.geeksforgeeks.org/problems/find-pair-given-difference/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"61o4ouNwCTcofeFSq2GC7",
+         "Topic":"Searching & Sorting",
+         "Problem":"find four elements that sum to a given value",
+         "Link":"https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"Ib9NR6Lx6eKVWDjYTOyED",
+         "Topic":"Searching & Sorting",
+         "Problem":"maximum sum such that no 2 elements are adjacent",
+         "Link":"https://practice.geeksforgeeks.org/problems/stickler-theif/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"_IxWoXyOLUUAg9Z6HevVu",
+         "Topic":"Searching & Sorting",
+         "Problem":"Count triplet with sum smaller than a given value",
+         "Link":"https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"l5xyIMJ7_pyYlngwSMuP-",
+         "Topic":"Searching & Sorting",
+         "Problem":"merge 2 sorted arrays",
+         "Link":"https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"RshMn93zqMjPsD6tLnU7D",
+         "Topic":"Searching & Sorting",
+         "Problem":"print all subarrays with 0 sum",
+         "Link":"https://practice.geeksforgeeks.org/problems/zero-sum-subarrays/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"_8FhGK41cZH3oPw6pSVHO",
+         "Topic":"Searching & Sorting",
+         "Problem":"Product array Puzzle",
+         "Link":"https://practice.geeksforgeeks.org/problems/product-array-puzzle/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"JwNex_MlHOu7848hwAele",
+         "Topic":"Searching & Sorting",
+         "Problem":"Sort array according to count of set bits",
+         "Link":"https://practice.geeksforgeeks.org/problems/sort-by-set-bit-count/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"3_wasDpGF_cHiSSIps_oy",
+         "Topic":"Searching & Sorting",
+         "Problem":"minimum no. of swaps required to sort the array",
+         "Link":"https://practice.geeksforgeeks.org/problems/minimum-swaps/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"_siTXPK2iO79d1g8xzW_v",
+         "Topic":"Searching & Sorting",
+         "Problem":"Bishu and Soldiers",
+         "Link":"https://www.hackerearth.com/problem/algorithm/bishu-and-soldiers-227/",
+         "Platform":"Hackerearth",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"BwaVEQI7yzP6SxcTcK_tB",
+         "Topic":"Searching & Sorting",
+         "Problem":"Rasta and Kheshtak",
+         "Link":"https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/rasta-and-kheshtak/",
+         "Platform":"Hackerearth",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"YtQvfCJJI_c26Im-UVg0v",
+         "Topic":"Searching & Sorting",
+         "Problem":"Kth smallest number again",
+         "Link":"https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/kth-smallest-number-again-2/",
+         "Platform":"Hackerearth",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"AY7Yhh_ArB97FeWpsR78m",
+         "Topic":"Searching & Sorting",
+         "Problem":"Find pivot element in a sorted array",
+         "Link":"http://theoryofprogramming.com/2017/12/16/find-pivot-element-sorted-rotated-array/",
+         "Platform":"Theory Of Programming",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"GROniiNCasrkkfmDMvAJC",
+         "Topic":"Searching & Sorting",
+         "Problem":"K-th Element of Two Sorted Arrays",
+         "Link":"https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"YJ4rg4lvsprGQXNc89DjL",
+         "Topic":"Searching & Sorting",
+         "Problem":"Aggressive cows",
+         "Link":"https://www.spoj.com/problems/AGGRCOW/",
+         "Platform":"SPOJ",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"4NlShQ4ilFqZrbM4_OEBz",
+         "Topic":"Searching & Sorting",
+         "Problem":"Book Allocation Problem",
+         "Link":"https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"iV7VTM4htcVZ5un3TpWe3",
+         "Topic":"Searching & Sorting",
+         "Problem":"EKOSPOJ:",
+         "Link":"https://www.spoj.com/problems/EKO/",
+         "Platform":"SPOJ",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"L9OYWk6I_Zm-MP0TQr2k9",
+         "Topic":"Searching & Sorting",
+         "Problem":"Job Scheduling Algo",
+         "Link":"https://www.geeksforgeeks.org/weighted-job-scheduling-log-n-time/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"1HEvexnifJK6Z5TSCdF86",
+         "Topic":"Searching & Sorting",
+         "Problem":"Missing Number in AP",
+         "Link":"https://practice.geeksforgeeks.org/problems/arithmetic-number/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"56W-wrZ8OColp--KI3K8I",
+         "Topic":"Searching & Sorting",
+         "Problem":"Smallest number with atleastn trailing zeroes infactorial",
+         "Link":"https://practice.geeksforgeeks.org/problems/smallest-factorial-number5929/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"4NlShQ4ilFqZrbM4_OEBz",
+         "Topic":"Searching & Sorting",
+         "Problem":"Painters Partition Problem:",
+         "Link":"https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"AJ4C-tBD5xXZdqjFtFdgz",
+         "Topic":"Searching & Sorting",
+         "Problem":"ROTI-Prata SPOJ",
+         "Link":"https://www.spoj.com/problems/PRATA/",
+         "Platform":"SPOJ",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"6-RncK_az7eIVw1Hre91F",
+         "Topic":"Searching & Sorting",
+         "Problem":"DoubleHelix SPOJ",
+         "Link":"https://www.spoj.com/problems/ANARC05B/",
+         "Platform":"SPOJ",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"sU_UWqMfOtSnK4HvtM3Xh",
+         "Topic":"Searching & Sorting",
+         "Problem":"Subset Sums",
+         "Link":"https://www.spoj.com/problems/SUBSUMS/",
+         "Platform":"SPOJ",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"OF0pEnNZWuCsKc4Ps1AMR",
+         "Topic":"Searching & Sorting",
+         "Problem":"Findthe inversion count",
+         "Link":"https://practice.geeksforgeeks.org/problems/inversion-of-array/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"1DdXjpmEDWlG-I5M0Vmym",
+         "Topic":"Searching & Sorting",
+         "Problem":"Implement Merge-sort in-place",
+         "Link":"https://www.geeksforgeeks.org/in-place-merge-sort/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"ctAN1j-nZizEnnfPaTkJx",
+         "Topic":"Searching & Sorting",
+         "Problem":"Partitioning and Sorting Arrays with Many Repeated Entries",
+         "Link":"https://www.baeldung.com/java-sorting-arrays-with-repeated-entries",
+         "Platform":"Baeldung",
+         "Difficulty":"Medium"
+      }
+   ],
+   "LinkedList":[
+      {
+         "id":"7G2K6grvXNmZP-RyLvu8C",
+         "Topic":"LinkedList",
+         "Problem":"Write a Program to reverse the Linked List. (Both Iterative and recursive)",
+         "Link":"https://www.geeksforgeeks.org/reverse-a-linked-list/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"Lt4s3oUufOw94hQR_v-CG",
+         "Topic":"LinkedList",
+         "Problem":"Reverse a Linked List in group of Given Size. [Very Imp]",
+         "Link":"https://practice.geeksforgeeks.org/problems/reverse-a-linked-list-in-groups-of-given-size/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"yFyXYUCK0KJ4aL5CNp600",
+         "Topic":"LinkedList",
+         "Problem":"Write a program to Detect loop in a linked list.",
+         "Link":"https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"I33hBIcq0XbIlriMhxuix",
+         "Topic":"LinkedList",
+         "Problem":"Find the starting point of the loop. ",
+         "Link":"https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"mL2W3Cda5j8UPEV4qdJo7",
+         "Topic":"LinkedList",
+         "Problem":"Remove Duplicates in a sorted Linked List.",
+         "Link":"https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"2hGKTWIAROybNxbm-2Ab2",
+         "Topic":"LinkedList",
+         "Problem":"Remove Duplicates in a Un-sorted Linked List.",
+         "Link":"https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"VnvZN6U72ih4Lk9gc3HmR",
+         "Topic":"LinkedList",
+         "Problem":"Write a Program to Move the last element to Front in a Linked List.",
+         "Link":"https://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linked-list/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"tsDj7Y5Xo16iqiUbYTwzv",
+         "Topic":"LinkedList",
+         "Problem":"Add “1” to a number represented as a Linked List.",
+         "Link":"https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"3dWVcuPral4rmPIzdiH6K",
+         "Topic":"LinkedList",
+         "Problem":"Add two numbers represented by linked lists.",
+         "Link":"https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"DRmVrYf1h7DYwFikQnVtR",
+         "Topic":"LinkedList",
+         "Problem":"Intersection of two Sorted Linked List.",
+         "Link":"https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"MdkKYfT-21z9Sram8bJ_s",
+         "Topic":"LinkedList",
+         "Problem":"Intersection Point of two Linked Lists.",
+         "Link":"https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"YKGimruMkTA-HF4axkNKG",
+         "Topic":"LinkedList",
+         "Problem":"Merge Sort For Linked lists.[Very Important]",
+         "Link":"https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"T7safdmWpeUvUaaagllW_",
+         "Topic":"LinkedList",
+         "Problem":"Quicksort for Linked Lists.[Very Important]",
+         "Link":"https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"vi8i0hJnDL8CCzRtzva2u",
+         "Topic":"LinkedList",
+         "Problem":"Find the middle Element of a linked list.",
+         "Link":"https://leetcode.com/problems/middle-of-the-linked-list/",
+         "Platform":"Leetcode",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"pE5wiTE5wKEZWLW45WQ0J",
+         "Topic":"LinkedList",
+         "Problem":"Check if a linked list is a circular linked list.",
+         "Link":"https://practice.geeksforgeeks.org/problems/circular-linked-list/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"kg0rw23vziek2WdyASApe",
+         "Topic":"LinkedList",
+         "Problem":"Split a Circular linked list into two halves.",
+         "Link":"https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"Dvl4m5VRWavL-HuLls1t7",
+         "Topic":"LinkedList",
+         "Problem":"Write a Program to check whether the Singly Linked list is a palindrome or not.",
+         "Link":"https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"Fk_BigbBWjzAyAp7Ud91O",
+         "Topic":"LinkedList",
+         "Problem":"Deletion from a Circular Linked List.",
+         "Link":"https://www.geeksforgeeks.org/deletion-circular-linked-list/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"Es39hqp6iccy44yE5XBb-",
+         "Topic":"LinkedList",
+         "Problem":"Reverse a Doubly Linked list.",
+         "Link":"https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"2n8VLqdEgXIkKEN58zHck",
+         "Topic":"LinkedList",
+         "Problem":"Find pairs with a given sum in a DLL.",
+         "Link":"https://www.geeksforgeeks.org/find-pairs-given-sum-doubly-linked-list/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"9ej7RVpCplsEcEBkCLPVP",
+         "Topic":"LinkedList",
+         "Problem":"Count triplets in a sorted DLL whose sum is equal to given value “X”.",
+         "Link":"https://www.geeksforgeeks.org/count-triplets-sorted-doubly-linked-list-whose-sum-equal-given-value-x/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"CAcbwV4QqnbRGf7veIU84",
+         "Topic":"LinkedList",
+         "Problem":"Sort a “k”sorted Doubly Linked list.[Very IMP]",
+         "Link":"https://www.geeksforgeeks.org/sort-k-sorted-doubly-linked-list/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"Vq8p7FHKAAi_dph8jvoyA",
+         "Topic":"LinkedList",
+         "Problem":"Rotate DoublyLinked list by N nodes.",
+         "Link":"https://www.geeksforgeeks.org/rotate-doubly-linked-list-n-nodes/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"RgB7TsLdxnJTwijqnmyUi",
+         "Topic":"LinkedList",
+         "Problem":"Rotate a Doubly Linked list in group of Given Size.[Very IMP]",
+         "Link":"https://www.geeksforgeeks.org/reverse-doubly-linked-list-groups-given-size/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"nzasiS6-KNdBXOrgxHI3o",
+         "Topic":"LinkedList",
+         "Problem":"Flatten a Linked List",
+         "Link":"https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"dig4RXhKFlNzp_MAu8A6f",
+         "Topic":"LinkedList",
+         "Problem":"Sort a LL of 0's, 1's and 2's",
+         "Link":"https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"PsegGqFO7t3h7thwA3uz6",
+         "Topic":"LinkedList",
+         "Problem":"Clone a linked list with next and random pointer",
+         "Link":"https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"O5VDFGdVHOERV1pFrgwYc",
+         "Topic":"LinkedList",
+         "Problem":"Merge K sorted Linked list",
+         "Link":"https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"sad8i0mkn065TNNpGvfJF",
+         "Topic":"LinkedList",
+         "Problem":"Multiply 2 no. represented by LL",
+         "Link":"https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"3ZYGee31GWPoQlbjTmqjr",
+         "Topic":"LinkedList",
+         "Problem":"Delete nodes which have a greater value on right side",
+         "Link":"https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"K8dtMcnYI0de0eYSSBpxo",
+         "Topic":"LinkedList",
+         "Problem":"Segregate even and odd nodes in a Linked List",
+         "Link":"https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"npjCq-mY203fniPsiTW7j",
+         "Topic":"LinkedList",
+         "Problem":"Program for n’th node from the end of a Linked List",
+         "Link":"https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"fkmRMz6W8tXExtzYJwzc8",
+         "Topic":"LinkedList",
+         "Problem":"Find the first non-repeating character from a stream of characters",
+         "Link":"https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      }
+   ],
+   "BinaryTrees":[
+      {
+         "id":"H1n67Dza_BPGW-D6lWFB5",
+         "Topic":"Binary Trees",
+         "Problem":"level order traversal",
+         "Link":"https://practice.geeksforgeeks.org/problems/level-order-traversal/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"AObp2W7IJTnV57s6wGVj8",
+         "Topic":"Binary Trees",
+         "Problem":"Reverse Level Order traversal",
+         "Link":"https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"CNTEiiqP_kfjD92wrZz35",
+         "Topic":"Binary Trees",
+         "Problem":"Height of a tree",
+         "Link":"https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"P9QMX5xaVLJkj89Q6TAEy",
+         "Topic":"Binary Trees",
+         "Problem":"Diameter of a tree",
+         "Link":"https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"PwYVd1hH2OICpf-qPRuah",
+         "Topic":"Binary Trees",
+         "Problem":"Mirror of a tree",
+         "Link":"https://www.geeksforgeeks.org/create-a-mirror-tree-from-the-given-binary-tree/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"hi57HO3jsFzJtwfTADFbF",
+         "Topic":"Binary Trees",
+         "Problem":"Inorder Traversal of a tree both using recursion and Iteration",
+         "Link":"https://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/",
+         "Platform":"TechiDelight",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"d28j8xuYKfpdqStSWPRwT",
+         "Topic":"Binary Trees",
+         "Problem":"Preorder Traversal of a tree both using recursion and Iteration",
+         "Link":"https://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/",
+         "Platform":"TechiDelight",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"L40iUOPh6aXF_MiAlY5tt",
+         "Topic":"Binary Trees",
+         "Problem":"Postorder Traversal of a tree both using recursion and Iteration",
+         "Link":"https://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/",
+         "Platform":"TechiDelight",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"udTXbzlDJLFCt5w4COo4N",
+         "Topic":"Binary Trees",
+         "Problem":"Left View of a tree",
+         "Link":"https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"g0vpfAv61f_3cvVAjRnfV",
+         "Topic":"Binary Trees",
+         "Problem":"Right View of Tree",
+         "Link":"https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"Bog17ElXBNL8wCTkxmFkE",
+         "Topic":"Binary Trees",
+         "Problem":"Top View of a tree",
+         "Link":"https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"F2f1mf7sIN27VPHQB5eK9",
+         "Topic":"Binary Trees",
+         "Problem":"Bottom View of a tree",
+         "Link":"https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"4A8nGvpAhYya5yElvY0WI",
+         "Topic":"Binary Trees",
+         "Problem":"Zig-Zag traversal of a binary tree",
+         "Link":"https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"Pq1jDIDRYfAqJVzU8zh41",
+         "Topic":"Binary Trees",
+         "Problem":"Check if a tree is balanced or not",
+         "Link":"https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"z8RPlHb6sAMCrVqrZbIVU",
+         "Topic":"Binary Trees",
+         "Problem":"Diagnol Traversal of a Binary tree",
+         "Link":"https://www.geeksforgeeks.org/diagonal-traversal-of-binary-tree/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"uD0PvAk3KkmmlUV374Zj3",
+         "Topic":"Binary Trees",
+         "Problem":"Boundary traversal of a Binary tree",
+         "Link":"https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"gs2t-xMFmCakehpqIIkZD",
+         "Topic":"Binary Trees",
+         "Problem":"Construct Binary Tree from String with Bracket Representation",
+         "Link":"https://www.geeksforgeeks.org/construct-binary-tree-string-bracket-representation/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"zRr2fegqBn_pe-6Cl9mML",
+         "Topic":"Binary Trees",
+         "Problem":"Convert Binary tree into Doubly Linked List",
+         "Link":"https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"VnSf65jb-2cJm7LZnKYDf",
+         "Topic":"Binary Trees",
+         "Problem":"Convert Binary tree into Sum tree",
+         "Link":"https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"bt28oaPhRtZArNeE54zQt",
+         "Topic":"Binary Trees",
+         "Problem":"Construct Binary tree from Inorder and preorder traversal",
+         "Link":"https://practice.geeksforgeeks.org/problems/construct-tree-1/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"DZMZWWvKc2sN_wKETTIbt",
+         "Topic":"Binary Trees",
+         "Problem":"Find minimum swaps required to convert a Binary tree into BST",
+         "Link":"https://www.geeksforgeeks.org/minimum-swap-required-convert-binary-tree-binary-search-tree/#:~:text=Given%20the%20array%20representation%20of,it%20into%20Binary%20Search%20Tree.&text=Swap%201%3A%20Swap%20node%208,node%209%20with%20node%2010.",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"EZ4FHRuEJIlFp64l_-sbm",
+         "Topic":"Binary Trees",
+         "Problem":"Check if Binary tree is Sum tree or not",
+         "Link":"https://practice.geeksforgeeks.org/problems/sum-tree/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"mRm1rEHaHhy1BUG5T9VVG",
+         "Topic":"Binary Trees",
+         "Problem":"Check if all leaf nodes are at same level or not",
+         "Link":"https://practice.geeksforgeeks.org/problems/leaf-at-same-level/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"FQzndN3D19ZY1R5AGVsYl",
+         "Topic":"Binary Trees",
+         "Problem":"Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]",
+         "Link":"https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"OiDXs2jLRbGwTV8b23_0Y",
+         "Topic":"Binary Trees",
+         "Problem":"Check if 2 trees are mirror or not",
+         "Link":"https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"ZcEnuJkeTWOI7I3PR_kwu",
+         "Topic":"Binary Trees",
+         "Problem":"Sum of Nodes on the Longest path from root to leaf node ",
+         "Link":"https://practice.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"4NZ4F0AOKI1TOn57hvzhg",
+         "Topic":"Binary Trees",
+         "Problem":"Check if given graph is tree or not.  [ IMP ]",
+         "Link":"https://www.geeksforgeeks.org/check-given-graph-tree/#:~:text=Since%20the%20graph%20is%20undirected,graph%20is%20connected%2C%20otherwise%20not.",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"gNJh4TxfCooR06PLl9KIo",
+         "Topic":"Binary Trees",
+         "Problem":"Find Largest subtree sum in a tree",
+         "Link":"https://www.geeksforgeeks.org/find-largest-subtree-sum-tree/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"Rk3NqVUC3rVMjfhEMR1b8",
+         "Topic":"Binary Trees",
+         "Problem":"Maximum Sum of nodes in Binary tree such that no two are adjacent ",
+         "Link":"https://www.geeksforgeeks.org/maximum-sum-nodes-binary-tree-no-two-adjacent/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"UBiH15VnN3BRm0wK2HrYc",
+         "Topic":"Binary Trees",
+         "Problem":"Print all \"K\" Sum paths in a Binary tree",
+         "Link":"https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"3FJZNOU_R4VSGFQ0G63fT",
+         "Topic":"Binary Trees",
+         "Problem":"Find LCA in a Binary tree",
+         "Link":"https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"qAwIVqtDyyVOWFRG2uyEt",
+         "Topic":"Binary Trees",
+         "Problem":"Find distance between 2 nodes in a Binary tree",
+         "Link":"https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"UBOvtx00qXzmQ7PQJSBZ1",
+         "Topic":"Binary Trees",
+         "Problem":"Kth Ancestor of node in a Binary tree",
+         "Link":"https://www.geeksforgeeks.org/kth-ancestor-node-binary-tree-set-2/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"35x0I_LGDrCLJPDZtsP1K",
+         "Topic":"Binary Trees",
+         "Problem":"Find all Duplicate subtrees in a Binary tree [ IMP ]",
+         "Link":"https://practice.geeksforgeeks.org/problems/duplicate-subtrees/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"TZwnzp8ZxUkhW0hgalWhN",
+         "Topic":"Binary Trees",
+         "Problem":"Tree Isomorphism Problem",
+         "Link":"https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      }
+   ],
+   "BinarySearchTrees":[
+      {
+         "id":"GX8Sp1oIcBcCYKQ-dgW4d",
+         "Topic":"Binary Search Trees",
+         "Problem":"Fina a value in a BST",
+         "Link":"https://practice.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"T_5ZN398k8aDDs3cFsgN-",
+         "Topic":"Binary Search Trees",
+         "Problem":"Deletion of a node in a BST",
+         "Link":"https://leetcode.com/problems/delete-node-in-a-bst/",
+         "Platform":"Leetcode",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"sLqM3iqv9EBMy1-BO743E",
+         "Topic":"Binary Search Trees",
+         "Problem":"Find min and max value in a BST",
+         "Link":"https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"B4OAU3bDWqBRT_UW1vqrC",
+         "Topic":"Binary Search Trees",
+         "Problem":"Find inorder successor and inorder predecessor in a BST",
+         "Link":"https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"isqVMHucNWwlzem9dcAkU",
+         "Topic":"Binary Search Trees",
+         "Problem":"Check if a tree is a BST or not ",
+         "Link":"https://practice.geeksforgeeks.org/problems/check-for-bst/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"vFrkxu1qJO0XuqPvVkIRL",
+         "Topic":"Binary Search Trees",
+         "Problem":"Populate Inorder successor of all nodes",
+         "Link":"https://practice.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"J_xwLNse6AAW8iQ8ImRci",
+         "Topic":"Binary Search Trees",
+         "Problem":"Find LCA  of 2 nodes in a BST",
+         "Link":"https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"3uKg2Bey-eDePvHNEFHZ1",
+         "Topic":"Binary Search Trees",
+         "Problem":"Construct BST from preorder traversal",
+         "Link":"https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"_AMZPzBsz-Z_zEmo6p43Y",
+         "Topic":"Binary Search Trees",
+         "Problem":"Convert Binary tree into BST",
+         "Link":"https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"LWrgwW2H1jq-Zhpz2ztJ7",
+         "Topic":"Binary Search Trees",
+         "Problem":"Convert a normal BST into a Balanced BST",
+         "Link":"https://www.geeksforgeeks.org/convert-normal-bst-balanced-bst/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"NpxNGGD4ExzJLbDIJXqIz",
+         "Topic":"Binary Search Trees",
+         "Problem":"Merge two BST [ V.V.V>IMP ]",
+         "Link":"https://www.geeksforgeeks.org/merge-two-balanced-binary-search-trees/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"qTOwuzYkTDcyiYeqy14yL",
+         "Topic":"Binary Search Trees",
+         "Problem":"Find Kth largest element in a BST",
+         "Link":"https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"7sczzWLRC4Iit6EzWFs34",
+         "Topic":"Binary Search Trees",
+         "Problem":"Find Kth smallest element in a BST",
+         "Link":"https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"mbixXv3qW6bXymgg3cTgE",
+         "Topic":"Binary Search Trees",
+         "Problem":"Count pairs from 2 BST whose sum is equal to given value \"X\"",
+         "Link":"https://practice.geeksforgeeks.org/problems/brothers-from-different-root/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"QF7lTR1I5nf4kzbZclL-n",
+         "Topic":"Binary Search Trees",
+         "Problem":"Find the median of BST in O(n) time and O(1) space",
+         "Link":"https://www.geeksforgeeks.org/find-median-bst-time-o1-space/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"VpoJpRUeYR7OWFp8Zqqjj",
+         "Topic":"Binary Search Trees",
+         "Problem":"Count BST ndoes that lie in a given range",
+         "Link":"https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"ehxGw0dy4NvHIOSJ1eDPX",
+         "Topic":"Binary Search Trees",
+         "Problem":"Replace every element with the least greater element on its right",
+         "Link":"https://www.geeksforgeeks.org/replace-every-element-with-the-least-greater-element-on-its-right/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"x8LkR6sLF9n0kSgdYZskC",
+         "Topic":"Binary Search Trees",
+         "Problem":"Given \"n\" appointments, find the conflicting appointments",
+         "Link":"https://www.geeksforgeeks.org/given-n-appointments-find-conflicting-appointments/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"puLxMeSfwZsbCCKUvEamO",
+         "Topic":"Binary Search Trees",
+         "Problem":"Check preorder is valid or not",
+         "Link":"https://practice.geeksforgeeks.org/problems/preorder-to-postorder/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"_g2xFD4ASk3ufvXRprY1l",
+         "Topic":"Binary Search Trees",
+         "Problem":"Check whether BST contains Dead end",
+         "Link":"https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"TBDASg8OkfNlU3bh9kKQO",
+         "Topic":"Binary Search Trees",
+         "Problem":"Largest BST in a Binary Tree [ V.V.V.V.V IMP ]",
+         "Link":"https://practice.geeksforgeeks.org/problems/largest-bst/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"xxrSGhUtlcVNLcsc4u_CK",
+         "Topic":"Binary Search Trees",
+         "Problem":"Flatten BST to sorted list",
+         "Link":"https://www.geeksforgeeks.org/flatten-bst-to-sorted-list-increasing-order/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      }
+   ],
+   "Greedy":[
+      {
+         "id":"6phJaQmwtnS-mloOhV-HK",
+         "Topic":"Greedy",
+         "Problem":"Activity Selection Problem",
+         "Link":"https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"dae-pBtBOgCU3DQSfYoFA",
+         "Topic":"Greedy",
+         "Problem":"Job SequencingProblem",
+         "Link":"https://practice.geeksforgeeks.org/problems/job-sequencing-problem/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"FVj48hQdTkZJapNWc_1NC",
+         "Topic":"Greedy",
+         "Problem":"Huffman Coding",
+         "Link":"https://practice.geeksforgeeks.org/problems/huffman-encoding/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"L_3EutlbRFP2TsIDJezwd",
+         "Topic":"Greedy",
+         "Problem":"Water Connection Problem",
+         "Link":"https://practice.geeksforgeeks.org/problems/water-connection-problem/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"ERqbEnXk19IHOMyyn9e0O",
+         "Topic":"Greedy",
+         "Problem":"Fractional Knapsack Problem",
+         "Link":"https://practice.geeksforgeeks.org/problems/fractional-knapsack/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"MUwTCjKndurT7O4W7uHhv",
+         "Topic":"Greedy",
+         "Problem":"Greedy Algorithm to find Minimum number of Coins",
+         "Link":"https://practice.geeksforgeeks.org/problems/coin-piles/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"bRG7bEFi0V68Y6ke_1Gvz",
+         "Topic":"Greedy",
+         "Problem":"Maximum trains for which stoppage can be provided",
+         "Link":"https://www.geeksforgeeks.org/maximum-trains-stoppage-can-provided/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"mUTE52Jz5i_4YqWX1jvUr",
+         "Topic":"Greedy",
+         "Problem":"Minimum Platforms Problem",
+         "Link":"https://practice.geeksforgeeks.org/problems/minimum-platforms/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"x8y_Tjd9PA8P5MceZCH9O",
+         "Topic":"Greedy",
+         "Problem":"Buy Maximum Stocks if i stocks can be bought on i-th day",
+         "Link":"https://www.geeksforgeeks.org/buy-maximum-stocks-stocks-can-bought-th-day/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"9TMAPtWYEC_yghnVfnB9o",
+         "Topic":"Greedy",
+         "Problem":"Find the minimum and maximum amount to buy all N candies",
+         "Link":"https://practice.geeksforgeeks.org/problems/shop-in-candy-store/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"aP3JpJfaZh96i9G7qS27H",
+         "Topic":"Greedy",
+         "Problem":"Minimize Cash Flow among a given set of friends who have borrowed money from each other",
+         "Link":"https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"nCfOeKZZAqMx9hcLxicCe",
+         "Topic":"Greedy",
+         "Problem":"Minimum Cost to cut a board into squares",
+         "Link":"https://www.geeksforgeeks.org/minimum-cost-cut-board-squares/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"87iMUS09VXvxKAdrUUXLa",
+         "Topic":"Greedy",
+         "Problem":"Check if it is possible to survive on Island",
+         "Link":"https://www.geeksforgeeks.org/survival/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"o_TuOVSif3VuaStNde6wc",
+         "Topic":"Greedy",
+         "Problem":"Find maximum meetings in one room",
+         "Link":"https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"2kOpeX4-7TfagcicBD8-u",
+         "Topic":"Greedy",
+         "Problem":"Maximum product subset of an array",
+         "Link":"https://www.geeksforgeeks.org/maximum-product-subset-array/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"Ze1u1RmWXC6-BGQZIh2dJ",
+         "Topic":"Greedy",
+         "Problem":"Maximize array sum after K negations",
+         "Link":"https://practice.geeksforgeeks.org/problems/maximize-sum-after-k-negations/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"AYfWxi5SRzvGlGlmDG6GM",
+         "Topic":"Greedy",
+         "Problem":"Maximize the sum of arr[i]*i",
+         "Link":"https://practice.geeksforgeeks.org/problems/maximize-arrii-of-an-array/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"pQzmNq8YARcF57DlG4Ue8",
+         "Topic":"Greedy",
+         "Problem":"Maximum sum of absolute difference of an array",
+         "Link":"https://www.geeksforgeeks.org/maximum-sum-absolute-difference-array/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"7bBQjCFWOzwD4Ipm5KZEm",
+         "Topic":"Greedy",
+         "Problem":"Maximize sum of consecutive differences in a circular array",
+         "Link":"https://practice.geeksforgeeks.org/problems/swap-and-maximize/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"Gk4AtAlf96lWoIZj8f1M-",
+         "Topic":"Greedy",
+         "Problem":"Minimum sum of absolute difference of pairs of two arrays",
+         "Link":"https://www.geeksforgeeks.org/minimum-sum-absolute-difference-pairs-two-arrays/#:~:text=It%20consists%20of%20two%20steps,result%20to%20the%20sum%20S.",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"SrlaFSoRw3WAY9jR1Fd33",
+         "Topic":"Greedy",
+         "Problem":"Program for Shortest Job First (or SJF) CPU Scheduling",
+         "Link":"https://www.geeksforgeeks.org/program-for-shortest-job-first-or-sjf-cpu-scheduling-set-1-non-preemptive/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"_WEmDuBno1mn6XUvjrYsN",
+         "Topic":"Greedy",
+         "Problem":"Program for Least Recently Used (LRU) Page Replacement algorithm",
+         "Link":"https://practice.geeksforgeeks.org/problems/page-faults-in-lru/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"vKvUs1wPqok1uqtk0uCFY",
+         "Topic":"Greedy",
+         "Problem":"Smallest subset with sum greater than all other elements",
+         "Link":"https://www.geeksforgeeks.org/smallest-subset-sum-greater-elements/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"Sx5B4b2qNiHj1_45EIjA8",
+         "Topic":"Greedy",
+         "Problem":"Chocolate Distribution Problem",
+         "Link":"https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"_GR4_0sCanKYgDbfYg8mU",
+         "Topic":"Greedy",
+         "Problem":"DEFKIN -Defense of a Kingdom",
+         "Link":"https://www.spoj.com/problems/DEFKIN/",
+         "Platform":"SPOJ",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"lxnwYS7VVJwgLu4GFuYV4",
+         "Topic":"Greedy",
+         "Problem":"DIEHARD -DIE HARD",
+         "Link":"https://www.spoj.com/problems/DIEHARD/",
+         "Platform":"SPOJ",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"nfOYaYZHfKVFcDSr4Pxc4",
+         "Topic":"Greedy",
+         "Problem":"GERGOVIA -Wine trading in Gergovia",
+         "Link":"https://www.spoj.com/problems/GERGOVIA/",
+         "Platform":"SPOJ",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"RPlpYu4AxgFeJx0AdLPxH",
+         "Topic":"Greedy",
+         "Problem":"Picking Up Chicks",
+         "Link":"https://www.spoj.com/problems/GCJ101BB/",
+         "Platform":"SPOJ",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"kzibkt216iN10bbjxSeJS",
+         "Topic":"Greedy",
+         "Problem":"CHOCOLA –Chocolate",
+         "Link":"https://www.spoj.com/problems/CHOCOLA/",
+         "Platform":"SPOJ",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"BhkUD4jSOfPNx057XoPlS",
+         "Topic":"Greedy",
+         "Problem":"ARRANGE -Arranging Amplifiers",
+         "Link":"https://www.spoj.com/problems/ARRANGE/",
+         "Platform":"SPOJ",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"5aI2XJAmKm0myDyl0JCGi",
+         "Topic":"Greedy",
+         "Problem":"K Centers Problem",
+         "Link":"https://www.geeksforgeeks.org/k-centers-problem-set-1-greedy-approximate-algorithm/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"QM3lq6DdURU52aZabRczZ",
+         "Topic":"Greedy",
+         "Problem":"Minimum Cost of ropes",
+         "Link":"https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"9uc67s1gQJr0EYKGW1nY4",
+         "Topic":"Greedy",
+         "Problem":"Find smallest number with given number of digits and sum of digits",
+         "Link":"https://practice.geeksforgeeks.org/problems/smallest-number5829/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"fqsHlxermG9NSe_kXHOHG",
+         "Topic":"Greedy",
+         "Problem":"Rearrange characters in a string such that no two adjacent are same",
+         "Link":"https://practice.geeksforgeeks.org/problems/rearrange-characters/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"PNP5lEifazoO2yOk4DLKf",
+         "Topic":"Greedy",
+         "Problem":"Find maximum sum possible equal sum of three stacks",
+         "Link":"https://www.geeksforgeeks.org/find-maximum-sum-possible-equal-sum-three-stacks/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      }
+   ],
+   "BackTracking":[
+      {
+         "id":"1F00_eKqg2UBS7aRFcwLX",
+         "Topic":"BackTracking",
+         "Problem":"Rat in a maze Problem",
+         "Link":"https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"-smLIw9AiCw1KX9g1HI4u",
+         "Topic":"BackTracking",
+         "Problem":"Printing all solutions in N-Queen Problem",
+         "Link":"https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"CneRknMEyK36zblnXSwoT",
+         "Topic":"BackTracking",
+         "Problem":"Word Break Problem using Backtracking",
+         "Link":"https://practice.geeksforgeeks.org/problems/word-break-part-2/0",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"ifV-P-rsRaG2gdgKrYX8V",
+         "Topic":"BackTracking",
+         "Problem":"Remove Invalid Parentheses",
+         "Link":"https://leetcode.com/problems/remove-invalid-parentheses/",
+         "Platform":"Leetcode",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"sFoKXKMse5ql-JsAJwzW4",
+         "Topic":"BackTracking",
+         "Problem":"Sudoku Solver",
+         "Link":"https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"gWixYAmqnzFvkY0kyGWVI",
+         "Topic":"BackTracking",
+         "Problem":"m Coloring Problem",
+         "Link":"https://practice.geeksforgeeks.org/problems/m-coloring-problem/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"gNH3wJyAuAJ4P37ELzq-z",
+         "Topic":"BackTracking",
+         "Problem":"Print all palindromic partitions of a string",
+         "Link":"https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"ElWm9Chxiaq3ucWcxnknB",
+         "Topic":"BackTracking",
+         "Problem":"Subset Sum Problem",
+         "Link":"https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"3ZSk_DwUAYg7DTNLqkap7",
+         "Topic":"BackTracking",
+         "Problem":"The Knight’s tour problem",
+         "Link":"https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"MVwrW9cOxw9U5pItuEWKE",
+         "Topic":"BackTracking",
+         "Problem":"Tug of War",
+         "Link":"https://www.geeksforgeeks.org/tug-of-war/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"rW9zksUyqEdbM0kxyHn85",
+         "Topic":"BackTracking",
+         "Problem":"Find shortest safe route in a path with landmines",
+         "Link":"https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"IBLgKBpp7xwrzwJX7lYhe",
+         "Topic":"BackTracking",
+         "Problem":"Combinational Sum",
+         "Link":"https://practice.geeksforgeeks.org/problems/combination-sum/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"MS08CFGX0q2SqknEe_i7-",
+         "Topic":"BackTracking",
+         "Problem":"Find Maximum number possible by doing at-most K swaps",
+         "Link":"https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"E5YeualK8d2pAeQDQk5I6",
+         "Topic":"BackTracking",
+         "Problem":"Print all permutations of a string ",
+         "Link":"https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"UrwX_fpXeUBT8eJcxBRSE",
+         "Topic":"BackTracking",
+         "Problem":"Find if there is a path of more than k length from a source",
+         "Link":"https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"nu8P1u6Kok4tfTNA7qHRc",
+         "Topic":"BackTracking",
+         "Problem":"Longest Possible Route in a Matrix with Hurdles",
+         "Link":"https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"162L0oarEXT261KxkZEEw",
+         "Topic":"BackTracking",
+         "Problem":"Print all possible paths from top left to bottom right of a mXn matrix",
+         "Link":"https://www.geeksforgeeks.org/print-all-possible-paths-from-top-left-to-bottom-right-of-a-mxn-matrix/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"eZitdXJ3sjA-A9JoGN2E7",
+         "Topic":"BackTracking",
+         "Problem":"Partition of a set intoK subsets with equal sum",
+         "Link":"https://practice.geeksforgeeks.org/problems/partition-array-to-k-subsets/1",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"veFNf40ug7pprm1pWwzLw",
+         "Topic":"BackTracking",
+         "Problem":"Find the K-th Permutation Sequence of first N natural numbers",
+         "Link":"https://www.geeksforgeeks.org/find-the-k-th-permutation-sequence-of-first-n-natural-numbers/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      }
+   ],
+   "StacksAndQueues":[
+      {
+         "id":"u3oZnTBTZf4yjn3Uxm6VO",
+         "Topic":"Stacks & Queues",
+         "Problem":" Implement Stack from Scratch",
+         "Link":"https://www.tutorialspoint.com/javaexamples/data_stack.htm",
+         "Platform":"Tutorials Point",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"dK6nUIjuWQJXnacCHjACP",
+         "Topic":"Stacks & Queues",
+         "Problem":" Implement Queue from Scratch",
+         "Link":"https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"D_3pfcBbouW4ZqJAZwvJO",
+         "Topic":"Stacks & Queues",
+         "Problem":"Implement 2 stack in an array",
+         "Link":"https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"EjaBlsQ7cP39h8SP_SXOY",
+         "Topic":"Stacks & Queues",
+         "Problem":"find the middle element of a stack",
+         "Link":"https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"PrCJu3t0wkECcjNQBDqcU",
+         "Topic":"Stacks & Queues",
+         "Problem":"Implement \"N\" stacks in an Array",
+         "Link":"https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"zZnrxIS-RpDuPohnB4s9f",
+         "Topic":"Stacks & Queues",
+         "Problem":"Check the expression has valid or Balanced parenthesis or not.",
+         "Link":"https://practice.geeksforgeeks.org/problems/parenthesis-checker/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"bISNgj599-2OGmumFUJIJ",
+         "Topic":"Stacks & Queues",
+         "Problem":"Reverse a String using Stack",
+         "Link":"https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"T58fQWd8MLBiiU4vy588H",
+         "Topic":"Stacks & Queues",
+         "Problem":"Design a Stack that supports getMin() in O(1) time and O(1) extra space.",
+         "Link":"https://practice.geeksforgeeks.org/problems/special-stack/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"D_tEXbAG3LwDC0DoXR1yK",
+         "Topic":"Stacks & Queues",
+         "Problem":"Find the next Greater element",
+         "Link":"https://practice.geeksforgeeks.org/problems/next-larger-element/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"Cytf-CZz_n-PAKNEPT5nm",
+         "Topic":"Stacks & Queues",
+         "Problem":"The celebrity Problem",
+         "Link":"https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"jGMUT1PUj9D4Bk4fTHMUY",
+         "Topic":"Stacks & Queues",
+         "Problem":"Arithmetic Expression evaluation",
+         "Link":"https://www.geeksforgeeks.org/arithmetic-expression-evalution/#:~:text=The%20stack%20organization%20is%20very,i.e.%2C%20A%20%2B%20B).",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"OMNX25yaHowcLRgRNqS8P",
+         "Topic":"Stacks & Queues",
+         "Problem":"Evaluation of Postfix expression",
+         "Link":"https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"oAaOAxs9zclAnJwhkJvbe",
+         "Topic":"Stacks & Queues",
+         "Problem":"Implement a method to insert an element at its bottom without using any other data structure.",
+         "Link":"https://stackoverflow.com/questions/45130465/inserting-at-the-end-of-stack",
+         "Platform":"StackOverflow",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"go1U6DUBzObZ5_XkwqlMg",
+         "Topic":"Stacks & Queues",
+         "Problem":"Reverse a stack using recursion",
+         "Link":"https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"qvcV-DF3B0hVKIKlBGjxq",
+         "Topic":"Stacks & Queues",
+         "Problem":"Sort a Stack using recursion",
+         "Link":"https://practice.geeksforgeeks.org/problems/sort-a-stack/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"ojOLsamA858YMcvbH8ExX",
+         "Topic":"Stacks & Queues",
+         "Problem":"Largest rectangular Area in Histogram",
+         "Link":"https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"TG85PFGuDblxNG66ZVEmV",
+         "Topic":"Stacks & Queues",
+         "Problem":"Length of the Longest Valid Substring",
+         "Link":"https://practice.geeksforgeeks.org/problems/valid-substring0624/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"IOw0-0e7z-5XhaIpZs3td",
+         "Topic":"Stacks & Queues",
+         "Problem":"Expression contains redundant bracket or not",
+         "Link":"https://www.geeksforgeeks.org/expression-contains-redundant-bracket-not/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"KBfyVDJrBpMbRvGZmz1Y2",
+         "Topic":"Stacks & Queues",
+         "Problem":"Implement Stack using Queue",
+         "Link":"https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"yOGNeyyfSXA2uQRgpEucv",
+         "Topic":"Stacks & Queues",
+         "Problem":"Implement Stack using Deque",
+         "Link":"https://www.geeksforgeeks.org/implement-stack-queue-using-deque/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"ZBfps9JYWJpS37AUEps57",
+         "Topic":"Stacks & Queues",
+         "Problem":"Stack Permutations (Check if an array is stack permutation of other)",
+         "Link":"https://www.geeksforgeeks.org/stack-permutations-check-if-an-array-is-stack-permutation-of-other/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"bJt0sG-zLqxveHMeJAiYY",
+         "Topic":"Stacks & Queues",
+         "Problem":"Implement Queue using Stack  ",
+         "Link":"https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"sWDy8r8KaYkUXziX0cZwI",
+         "Topic":"Stacks & Queues",
+         "Problem":"Implement \"n\" queue in an array",
+         "Link":"https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"zHPQWE85o9RRDHq5Ah9RC",
+         "Topic":"Stacks & Queues",
+         "Problem":"Implement a Circular queue",
+         "Link":"https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"rRDFDctM4_YhMMYUembb1",
+         "Topic":"Stacks & Queues",
+         "Problem":"LRU Cache Implementationa",
+         "Link":"https://practice.geeksforgeeks.org/problems/lru-cache/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"771wJYlOXNcFoL5JBnEZR",
+         "Topic":"Stacks & Queues",
+         "Problem":"Reverse a Queue using recursion",
+         "Link":"https://practice.geeksforgeeks.org/problems/queue-reversal/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"f-3J6RcmQScF5xQhJOu5o",
+         "Topic":"Stacks & Queues",
+         "Problem":"Reverse the first “K” elements of a queue",
+         "Link":"https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"Iwm5K3w9LiWtXnbvB-XPL",
+         "Topic":"Stacks & Queues",
+         "Problem":"Interleave the first half of the queue with second half",
+         "Link":"https://www.geeksforgeeks.org/interleave-first-half-queue-second-half/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"iY2vNbpayi0cjREni3-VV",
+         "Topic":"Stacks & Queues",
+         "Problem":"Find the first circular tour that visits all Petrol Pumps",
+         "Link":"https://practice.geeksforgeeks.org/problems/circular-tour/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"xA-PyUrj3d2XC-15aXmY1",
+         "Topic":"Stacks & Queues",
+         "Problem":"Minimum time required to rot all oranges",
+         "Link":"https://practice.geeksforgeeks.org/problems/rotten-oranges/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"u4apZpm3HpwKwoKkQZokf",
+         "Topic":"Stacks & Queues",
+         "Problem":"Distance of nearest cell having 1 in a binary matrix",
+         "Link":"https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"F42tS52I_N9v_GSxv8FTx",
+         "Topic":"Stacks & Queues",
+         "Problem":"First negative integer in every window of size “k”",
+         "Link":"https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"Hy1y2C6uiDnyWG4bOu_6B",
+         "Topic":"Stacks & Queues",
+         "Problem":"Check if all levels of two trees are anagrams or not.",
+         "Link":"https://www.geeksforgeeks.org/check-if-all-levels-of-two-trees-are-anagrams-or-not/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"7ENwfdYVylDYWfe4hWYDY",
+         "Topic":"Stacks & Queues",
+         "Problem":"Sum of minimum and maximum elements of all subarrays of size “k”.",
+         "Link":"https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"6gYteOMMST2bxtJ6e6tXx",
+         "Topic":"Stacks & Queues",
+         "Problem":"Minimum sum of squares of character counts in a given string after removing “k” characters.",
+         "Link":"https://practice.geeksforgeeks.org/problems/game-with-string/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"fkmRMz6W8tXExtzYJwzc8",
+         "Topic":"Stacks & Queues",
+         "Problem":"Queue based approach or first non-repeating character in a stream.",
+         "Link":"https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"eH3rUOQwC0HzwWj49zU94",
+         "Topic":"Stacks & Queues",
+         "Problem":"Next Smaller Element",
+         "Link":"https://www.geeksforgeeks.org/next-smaller-element/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      }
+   ],
+   "Heap":[
+      {
+         "id":"FLEciJbPj4Sz7T-XEH4nM",
+         "Topic":"Heap",
+         "Problem":"Implement a Maxheap/MinHeap using arrays and recursion.",
+         "Link":"https://www.geeksforgeeks.org/building-heap-from-array/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"P4X_-RbrsIYflhKDLf7b5",
+         "Topic":"Heap",
+         "Problem":"Sort an Array using heap. (HeapSort)",
+         "Link":"https://www.geeksforgeeks.org/heap-sort/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"XvCt1kpJCsZRTL-4wyEOG",
+         "Topic":"Heap",
+         "Problem":"Maximum of all subarrays of size k.",
+         "Link":"https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"OsYJQLihVHiFKvgkvV0E_",
+         "Topic":"Heap",
+         "Problem":"“k” largest element in an array",
+         "Link":"https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"A2SNGYf2XyD8OsGUhPrdH",
+         "Topic":"Heap",
+         "Problem":"Kth smallest and largest element in an unsorted array",
+         "Link":"https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"_UvOuIUWf2JSqDeCpPs3K",
+         "Topic":"Heap",
+         "Problem":"Merge “K” sorted arrays. [ IMP ]",
+         "Link":"https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"SOrr-yrkX-szoUs4hdX2u",
+         "Topic":"Heap",
+         "Problem":"Merge 2 Binary Max Heaps",
+         "Link":"https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"iy5gVfM-zhgBFxr-rmwq0",
+         "Topic":"Heap",
+         "Problem":"Kth largest sum continuous subarrays",
+         "Link":"https://www.geeksforgeeks.org/k-th-largest-sum-contiguous-subarray/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"dLlOVwPqQqkKANSqPQQ7-",
+         "Topic":"Heap",
+         "Problem":"Leetcode- reorganize strings",
+         "Link":"https://leetcode.com/problems/reorganize-string/",
+         "Platform":"Leetcode",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"O5VDFGdVHOERV1pFrgwYc",
+         "Topic":"Heap",
+         "Problem":"Merge “K” Sorted Linked Lists [V.IMP]",
+         "Link":"https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"BXFj69BYIpREYs7GsS_YW",
+         "Topic":"Heap",
+         "Problem":"Smallest range in “K” Lists",
+         "Link":"https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"TwHp6da7yykQ4BWXFQG-a",
+         "Topic":"Heap",
+         "Problem":"Median in a stream of Integers",
+         "Link":"https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"KzCTq2k4bkerebJClplvh",
+         "Topic":"Heap",
+         "Problem":"Check if a Binary Tree is Heap",
+         "Link":"https://practice.geeksforgeeks.org/problems/is-binary-tree-heap/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"QM3lq6DdURU52aZabRczZ",
+         "Topic":"Heap",
+         "Problem":"Connect “n” ropes with minimum cost",
+         "Link":"https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"MjmqgzfXskwOhkWTPzpvU",
+         "Topic":"Heap",
+         "Problem":"Convert BST to Min Heap",
+         "Link":"https://www.geeksforgeeks.org/convert-bst-min-heap/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"EPGl9fj9jUqeMQOzyk0Wi",
+         "Topic":"Heap",
+         "Problem":"Convert min heap to max heap",
+         "Link":"https://www.geeksforgeeks.org/convert-min-heap-to-max-heap/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"fqsHlxermG9NSe_kXHOHG",
+         "Topic":"Heap",
+         "Problem":"Rearrange characters in a string such that no two adjacent are same.",
+         "Link":"https://practice.geeksforgeeks.org/problems/rearrange-characters/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"shiJScaMmpjz7kC014tyt",
+         "Topic":"Heap",
+         "Problem":"Minimum sum of two numbers formed from digits of an array",
+         "Link":"https://practice.geeksforgeeks.org/problems/minimum-sum4058/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      }
+   ],
+   "Graph":[
+      {
+         "id":"ZWb6Nm_xeQqhL8cpMcDdi",
+         "Topic":"Graph",
+         "Problem":"Create a Graph, print it",
+         "Link":"https://1drv.ms/t/s!AqTOHFO77CqEiRua06v1PATyiFg5",
+         "Platform":"1drv",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"0zgLlqHhZmbcldDazUBQF",
+         "Topic":"Graph",
+         "Problem":"Implement BFS algorithm ",
+         "Link":"https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"pYDzsLKO9o3TajyP4DsJV",
+         "Topic":"Graph",
+         "Problem":"Implement DFS Algo ",
+         "Link":"https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"hg0N5LtyJ_LprbFDeoXTG",
+         "Topic":"Graph",
+         "Problem":"Detect Cycle in Directed Graph using BFS/DFS Algo ",
+         "Link":"https://www.geeksforgeeks.org/detect-cycle-in-a-graph/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"pxOs52FMR56madMGOf2B3",
+         "Topic":"Graph",
+         "Problem":"Detect Cycle in UnDirected Graph using BFS/DFS Algo ",
+         "Link":"https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"1F00_eKqg2UBS7aRFcwLX",
+         "Topic":"Graph",
+         "Problem":"Search in a Maze",
+         "Link":"https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"0HNWpejlnI2NsWnpB69Ej",
+         "Topic":"Graph",
+         "Problem":"Minimum Step by Knight",
+         "Link":"https://practice.geeksforgeeks.org/problems/steps-by-knight/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"0e6InjnZb3ZvK1jVDyPjr",
+         "Topic":"Graph",
+         "Problem":"flood fill algo",
+         "Link":"https://leetcode.com/problems/flood-fill/",
+         "Platform":"Leetcode",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"GLNC6JFNBqlPRDQ6q4gpR",
+         "Topic":"Graph",
+         "Problem":"Clone a graph",
+         "Link":"https://leetcode.com/problems/clone-graph/",
+         "Platform":"Leetcode",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"TU2VhtbAOY2LRYQTDXdVb",
+         "Topic":"Graph",
+         "Problem":"Making wired Connections",
+         "Link":"https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
+         "Platform":"Leetcode",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"zurVlAaj2vEkAyY6EoqaJ",
+         "Topic":"Graph",
+         "Problem":"word Ladder ",
+         "Link":"https://leetcode.com/problems/word-ladder/",
+         "Platform":"Leetcode",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"FDl9Jz-5NEDiP8sBWY5Pz",
+         "Topic":"Graph",
+         "Problem":"Dijkstra algo",
+         "Link":"https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"XjRqjJN7Q4mmeU-qA6iXU",
+         "Topic":"Graph",
+         "Problem":"Implement Topological Sort ",
+         "Link":"https://practice.geeksforgeeks.org/problems/topological-sort/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"nPMTIm-FylL7w3Y1UOaYo",
+         "Topic":"Graph",
+         "Problem":"Minimum time taken by each job to be completed given by a Directed Acyclic Graph",
+         "Link":"https://www.geeksforgeeks.org/minimum-time-taken-by-each-job-to-be-completed-given-by-a-directed-acyclic-graph/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"VWFkbRg4vZPZAWP6nto9j",
+         "Topic":"Graph",
+         "Problem":"Find whether it is possible to finish all tasks or not from given dependencies",
+         "Link":"https://www.geeksforgeeks.org/find-whether-it-is-possible-to-finish-all-tasks-or-not-from-given-dependencies/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"FzKxv4FVVzy2cnO0Vesix",
+         "Topic":"Graph",
+         "Problem":"Find the no. of Isalnds",
+         "Link":"https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"NoUXdESqQSNY2S1Ng17CQ",
+         "Topic":"Graph",
+         "Problem":"Given a sorted Dictionary of an Alien Language, find order of characters",
+         "Link":"https://practice.geeksforgeeks.org/problems/alien-dictionary/1",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"luwttmkb0QBjlwRUJBBVB",
+         "Topic":"Graph",
+         "Problem":"Implement Kruksal’sAlgorithm",
+         "Link":"https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"A5NoYfGsA6BcxHFGqPfcE",
+         "Topic":"Graph",
+         "Problem":"Implement Prim’s Algorithm",
+         "Link":"https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"C5k7ErKFlgkUQddOLw_zK",
+         "Topic":"Graph",
+         "Problem":"Total no. of Spanning tree in a graph",
+         "Link":"https://www.geeksforgeeks.org/total-number-spanning-trees-graph/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"0rMMWKpMfWGNgjj1g8QDR",
+         "Topic":"Graph",
+         "Problem":"Implement Bellman Ford Algorithm",
+         "Link":"https://practice.geeksforgeeks.org/problems/negative-weight-cycle/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"_WjYLEkx5-_6rp8oOWG0J",
+         "Topic":"Graph",
+         "Problem":"Implement Floyd warshallAlgorithm",
+         "Link":"https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"fyhkNpnYG-niuX2Kr-dOi",
+         "Topic":"Graph",
+         "Problem":"Travelling Salesman Problem",
+         "Link":"https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"bvnAW7zP8sXOe8cRqEUXT",
+         "Topic":"Graph",
+         "Problem":"Graph ColouringProblem",
+         "Link":"https://www.geeksforgeeks.org/graph-coloring-applications/#:~:text=Graph%20coloring%20problem%20is%20to,are%20colored%20using%20same%20color.",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"BXpjzYDjBrm1LtG3jQox4",
+         "Topic":"Graph",
+         "Problem":"Snake and Ladders Problem",
+         "Link":"https://leetcode.com/problems/snakes-and-ladders/",
+         "Platform":"Leetcode",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"PrRzPbEseVQs3mzv857ne",
+         "Topic":"Graph",
+         "Problem":"Find bridge in a graph",
+         "Link":"https://www.geeksforgeeks.org/bridge-in-a-graph/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"S-cm9BzrbSghYR5cAXGNB",
+         "Topic":"Graph",
+         "Problem":"Count Strongly connected Components(Kosaraju Algo)",
+         "Link":"https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"qO2q9C-a8dbUXiv0xCgk0",
+         "Topic":"Graph",
+         "Problem":"Check whether a graph is Bipartite or Not",
+         "Link":"https://www.geeksforgeeks.org/bipartite-graph/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"YRYJ7NqUIvzHjysanmwz2",
+         "Topic":"Graph",
+         "Problem":"Detect Negative cycle in a graph",
+         "Link":"https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"WMLwybEUnC3fveCejXN74",
+         "Topic":"Graph",
+         "Problem":"Longest path in a Directed Acyclic Graph",
+         "Link":"https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"h0X4pnkfSFEMk4Z-QFiBR",
+         "Topic":"Graph",
+         "Problem":"Journey to the Moon",
+         "Link":"https://www.hackerrank.com/challenges/journey-to-the-moon/problem",
+         "Platform":"HackerRank",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"myG8NDnywpcHU-marlXDj",
+         "Topic":"Graph",
+         "Problem":"Cheapest Flights Within K Stops",
+         "Link":"https://leetcode.com/problems/cheapest-flights-within-k-stops/description/",
+         "Platform":"Leetcode",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"wLRWVQNCjZ4WZ40FWAvfk",
+         "Topic":"Graph",
+         "Problem":"Oliver and the Game",
+         "Link":"https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/oliver-and-the-game-3/",
+         "Platform":"Hackerearth",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"xyNjhCllVvfk6-rgSXWgJ",
+         "Topic":"Graph",
+         "Problem":"Water Jug problem using BFS",
+         "Link":"https://www.geeksforgeeks.org/water-jug-problem-using-bfs/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"xyNjhCllVvfk6-rgSXWgJ",
+         "Topic":"Graph",
+         "Problem":"Water Jug problem using BFS",
+         "Link":"https://www.geeksforgeeks.org/water-jug-problem-using-bfs/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"UrwX_fpXeUBT8eJcxBRSE",
+         "Topic":"Graph",
+         "Problem":"Find if there is a path of more thank length from a source",
+         "Link":"https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"gWixYAmqnzFvkY0kyGWVI",
+         "Topic":"Graph",
+         "Problem":"M-ColouringProblem",
+         "Link":"https://practice.geeksforgeeks.org/problems/m-coloring-problem/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"jrUGygkmJEKpMiCbJFj3_",
+         "Topic":"Graph",
+         "Problem":"Minimum edges to reverse o make path from source to destination",
+         "Link":"https://www.geeksforgeeks.org/minimum-edges-reverse-make-path-source-destination/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"ZiD-YTMrAnrV9ctKJTfM7",
+         "Topic":"Graph",
+         "Problem":"Paths to travel each nodes using each edge(Seven Bridges)",
+         "Link":"https://www.geeksforgeeks.org/paths-travel-nodes-using-edgeseven-bridges-konigsberg/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"iWey-0k2KInAgA8v0Hbyd",
+         "Topic":"Graph",
+         "Problem":"Vertex Cover Problem",
+         "Link":"https://www.geeksforgeeks.org/vertex-cover-problem-set-1-introduction-approximate-algorithm-2/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"hptrBQPKmb-oLVtgXAuLE",
+         "Topic":"Graph",
+         "Problem":"Chinese Postman or Route Inspection",
+         "Link":"https://www.geeksforgeeks.org/chinese-postman-route-inspection-set-1-introduction/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"EWFfmmXFLncyfKTK_cqZu",
+         "Topic":"Graph",
+         "Problem":"Number of Triangles in a Directed and Undirected Graph",
+         "Link":"https://www.geeksforgeeks.org/number-of-triangles-in-directed-and-undirected-graphs/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"aP3JpJfaZh96i9G7qS27H",
+         "Topic":"Graph",
+         "Problem":"Minimise the cashflow among a given set of friends who have borrowed money from each other",
+         "Link":"https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"gpy6lXTtuPnfBoAR5P92w",
+         "Topic":"Graph",
+         "Problem":"Two Clique Problem",
+         "Link":"https://www.geeksforgeeks.org/two-clique-problem-check-graph-can-divided-two-cliques/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      }
+   ],
+   "Trie":[
+      {
+         "id":"zty3aiX27RC5jpbmU5J3E",
+         "Topic":"Trie",
+         "Problem":"Construct a trie from scratch",
+         "Link":"https://www.geeksforgeeks.org/trie-insert-and-search/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"TP65gT-q11EckDMp0vHO-",
+         "Topic":"Trie",
+         "Problem":"Find shortest unique prefix for every word in a given list",
+         "Link":"https://www.geeksforgeeks.org/find-all-shortest-unique-prefixes-to-represent-each-word-in-a-given-list/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"r6rhqHr4YoXLCh4UGGQKL",
+         "Topic":"Trie",
+         "Problem":"Word Break Problem | (Trie solution)",
+         "Link":"https://www.geeksforgeeks.org/word-break-problem-trie-solution/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"QJOm2OqHzQt5tP_vf5ocs",
+         "Topic":"Trie",
+         "Problem":"Given a sequence of words, print all anagrams together",
+         "Link":"https://practice.geeksforgeeks.org/problems/k-anagrams-1/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"MVDe-KVcx3OhhjSIsBlTh",
+         "Topic":"Trie",
+         "Problem":"Implement a Phone Directory",
+         "Link":"https://practice.geeksforgeeks.org/problems/phone-directory/0",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"GXHYLHRwDsLsOGMbQyN36",
+         "Topic":"Trie",
+         "Problem":"Print unique rows in a given boolean matrix",
+         "Link":"https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      }
+   ],
+   "DynamicProgramming":[
+      {
+         "id":"NCoJ4_5fsOc8h8qzuJOwG",
+         "Topic":"Dynamic Programming",
+         "Problem":"Coin ChangeProblem",
+         "Link":"https://practice.geeksforgeeks.org/problems/coin-change2448/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"K6LrUICKRwcDaJWK11bzd",
+         "Topic":"Dynamic Programming",
+         "Problem":"Knapsack Problem",
+         "Link":"https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"g7d6xiR50DzqhvphN6lXf",
+         "Topic":"Dynamic Programming",
+         "Problem":"Binomial CoefficientProblem",
+         "Link":"https://practice.geeksforgeeks.org/problems/ncr1019/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"1jrmnRQgNdIuWVUKzyI5k",
+         "Topic":"Dynamic Programming",
+         "Problem":"Permutation CoefficientProblem",
+         "Link":"https://www.geeksforgeeks.org/permutation-coefficient/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"o65Uoc_ukr57MhBce8UQX",
+         "Topic":"Dynamic Programming",
+         "Problem":"Program for nth Catalan Number",
+         "Link":"https://www.geeksforgeeks.org/program-nth-catalan-number/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"pRnUPcpfAv7fdD5wnEgcc",
+         "Topic":"Dynamic Programming",
+         "Problem":"Matrix Chain Multiplication ",
+         "Link":"https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"yyMoTw9IC3dviA0IHbCF4",
+         "Topic":"Dynamic Programming",
+         "Problem":"Edit Distance",
+         "Link":"https://practice.geeksforgeeks.org/problems/edit-distance3702/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"ElWm9Chxiaq3ucWcxnknB",
+         "Topic":"Dynamic Programming",
+         "Problem":"Subset Sum Problem",
+         "Link":"https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"rmuciNmAiwTJDmPfqsRSK",
+         "Topic":"Dynamic Programming",
+         "Problem":"Friends Pairing Problem",
+         "Link":"https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"ARMSLpZC-UHgl1hTj89DK",
+         "Topic":"Dynamic Programming",
+         "Problem":"Gold Mine Problem",
+         "Link":"https://www.geeksforgeeks.org/gold-mine-problem/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"J6kCzswUXRbOx27RQamYk",
+         "Topic":"Dynamic Programming",
+         "Problem":"Assembly Line SchedulingProblem",
+         "Link":"https://www.geeksforgeeks.org/assembly-line-scheduling-dp-34/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"TsFHq5AXowM6JSjhFjE2p",
+         "Topic":"Dynamic Programming",
+         "Problem":"Painting the Fenceproblem",
+         "Link":"https://practice.geeksforgeeks.org/problems/painting-the-fence3727/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"mTlwOsAW7I8EdRwR9lLbc",
+         "Topic":"Dynamic Programming",
+         "Problem":"Maximize The Cut Segments",
+         "Link":"https://practice.geeksforgeeks.org/problems/cutted-segments/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"C2Wx2WyoXhx6Fk2qoDOZX",
+         "Topic":"Dynamic Programming",
+         "Problem":"Longest Common Subsequence",
+         "Link":"https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"ZVgrxz20X7aTOH8bwS6uH",
+         "Topic":"Dynamic Programming",
+         "Problem":"Longest Repeated Subsequence",
+         "Link":"https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"j6XBwmESYrO_v0UbgFWnk",
+         "Topic":"Dynamic Programming",
+         "Problem":"Longest Increasing Subsequence",
+         "Link":"https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"LZgHRnVN8_Nz9rZ8JBaE6",
+         "Topic":"Dynamic Programming",
+         "Problem":"Space Optimized Solution of LCS",
+         "Link":"https://www.geeksforgeeks.org/space-optimized-solution-lcs/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"AwYXb_uFlgcrTdQG4Ik7E",
+         "Topic":"Dynamic Programming",
+         "Problem":"LCS (Longest Common Subsequence) of three strings",
+         "Link":"https://practice.geeksforgeeks.org/problems/lcs-of-three-strings/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"8uYmrv0chVsD4CybexZEv",
+         "Topic":"Dynamic Programming",
+         "Problem":"Maximum Sum Increasing Subsequence",
+         "Link":"https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"MYfITAwkTB2PjrDcbr609",
+         "Topic":"Dynamic Programming",
+         "Problem":"Count all subsequences having product less than K",
+         "Link":"https://www.geeksforgeeks.org/count-subsequences-product-less-k/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"3I5wwgKomSFFg4rYtx3G2",
+         "Topic":"Dynamic Programming",
+         "Problem":"Longest subsequence such that difference between adjacent is one",
+         "Link":"https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one4724/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"stTzhSTvbIaSJ_z2ZpfeD",
+         "Topic":"Dynamic Programming",
+         "Problem":"Maximum subsequence sum such that no three are consecutive",
+         "Link":"https://www.geeksforgeeks.org/maximum-subsequence-sum-such-that-no-three-are-consecutive/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"TraIhZCtPppcZR2PRiQKK",
+         "Topic":"Dynamic Programming",
+         "Problem":"Egg Dropping Problem",
+         "Link":"https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"u0o6Igja_Nl8_su5Drt1v",
+         "Topic":"Dynamic Programming",
+         "Problem":"Maximum Length Chain of Pairs",
+         "Link":"https://practice.geeksforgeeks.org/problems/max-length-chain/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"fZjOG2RzCTMfLXKNKaeS_",
+         "Topic":"Dynamic Programming",
+         "Problem":"Maximum size square sub-matrix with all 1s",
+         "Link":"https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"HBLn_H8xxK4JyRRNOA8s1",
+         "Topic":"Dynamic Programming",
+         "Problem":"Maximum sum of pairs with specific difference",
+         "Link":"https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"_I4IksPITSIwZIXiObeqc",
+         "Topic":"Dynamic Programming",
+         "Problem":"Min Cost PathProblem",
+         "Link":"https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"SRIuWCyJpcDgNMxiUUkSR",
+         "Topic":"Dynamic Programming",
+         "Problem":"Maximum difference of zeros and ones in binary string",
+         "Link":"https://practice.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string4111/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"P9WJfcv6wKnkXrYjrAify",
+         "Topic":"Dynamic Programming",
+         "Problem":"Minimum number of jumps to reach end",
+         "Link":"https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"26FOvQSwAfvUk0a7m1V8I",
+         "Topic":"Dynamic Programming",
+         "Problem":"Minimum cost to fill given weight in a bag",
+         "Link":"https://practice.geeksforgeeks.org/problems/minimum-cost-to-fill-given-weight-in-a-bag1956/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"hEgUNUuavQUgt9hkdhiNu",
+         "Topic":"Dynamic Programming",
+         "Problem":"Minimum removals from array to make max –min <= K",
+         "Link":"https://www.geeksforgeeks.org/minimum-removals-array-make-max-min-k/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"WuDiTvpzdtZZlp0BhzH3E",
+         "Topic":"Dynamic Programming",
+         "Problem":"Longest Common Substring",
+         "Link":"https://practice.geeksforgeeks.org/problems/longest-common-substring/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"IO_eC16wodo6JTnTbtzQX",
+         "Topic":"Dynamic Programming",
+         "Problem":"Count number of ways to reacha given score in a game",
+         "Link":"https://practice.geeksforgeeks.org/problems/reach-a-given-score/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"cvu_M0C7M3LLPDVrVFBxm",
+         "Topic":"Dynamic Programming",
+         "Problem":"Count Balanced Binary Trees of Height h",
+         "Link":"https://practice.geeksforgeeks.org/problems/bbt-counter/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"FBaLpBb6oFDhxUrhVXdwa",
+         "Topic":"Dynamic Programming",
+         "Problem":"LargestSum Contiguous Subarray [V>V>V>V IMP ]",
+         "Link":"https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"OXKOihn_sdqtRznvUdvYu",
+         "Topic":"Dynamic Programming",
+         "Problem":"Smallest sum contiguous subarray",
+         "Link":"https://www.geeksforgeeks.org/smallest-sum-contiguous-subarray/",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"hwEb1hq-oJLjBpEMWOCGl",
+         "Topic":"Dynamic Programming",
+         "Problem":"Unbounded Knapsack (Repetition of items allowed)",
+         "Link":"https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"dPHQqBzw3kRgJy2vvTcQV",
+         "Topic":"Dynamic Programming",
+         "Problem":"Word Break Problem",
+         "Link":"https://practice.geeksforgeeks.org/problems/word-break/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"zHEQDEHKlsLIBdcunvU18",
+         "Topic":"Dynamic Programming",
+         "Problem":"Largest Independent Set Problem",
+         "Link":"https://www.geeksforgeeks.org/largest-independent-set-problem-dp-26/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"ElWm9Chxiaq3ucWcxnknB",
+         "Topic":"Dynamic Programming",
+         "Problem":"Partition problem",
+         "Link":"https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"t-wlMEWxXvOHzMpyoHMYk",
+         "Topic":"Dynamic Programming",
+         "Problem":"Longest Palindromic Subsequence",
+         "Link":"https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"pYkj-vMRDjHmyp6x7NzI3",
+         "Topic":"Dynamic Programming",
+         "Problem":"Count All Palindromic Subsequence in a given String",
+         "Link":"https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"39OalIoSzN1VNBK_j7sb2",
+         "Topic":"Dynamic Programming",
+         "Problem":"Longest Palindromic Substring",
+         "Link":"https://leetcode.com/problems/longest-palindromic-substring/",
+         "Platform":"Leetcode",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"BNKDWM5Qj9qxxGUo8-nKo",
+         "Topic":"Dynamic Programming",
+         "Problem":"Longest alternating subsequence",
+         "Link":"https://practice.geeksforgeeks.org/problems/longest-alternating-subsequence/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"mZWJHFOqxfqZgVmdkXHb8",
+         "Topic":"Dynamic Programming",
+         "Problem":"Weighted Job Scheduling",
+         "Link":"https://www.geeksforgeeks.org/weighted-job-scheduling/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"yVrMhW8dPZeqoKqovAkMW",
+         "Topic":"Dynamic Programming",
+         "Problem":"Coin game winner where every player has three choices",
+         "Link":"https://www.geeksforgeeks.org/coin-game-winner-every-player-three-choices/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"eIpLSxCerV7oMyzZloiIR",
+         "Topic":"Dynamic Programming",
+         "Problem":"Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]",
+         "Link":"https://www.geeksforgeeks.org/count-derangements-permutation-such-that-no-element-appears-in-its-original-position/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"pZdBtdCb2rHnRFtauQ5F3",
+         "Topic":"Dynamic Programming",
+         "Problem":"Maximum profit by buying and selling a share at most twice [ IMP ]",
+         "Link":"https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"9C6pcAfkyLaukAcUOn_9g",
+         "Topic":"Dynamic Programming",
+         "Problem":"Optimal Strategy for a Game",
+         "Link":"https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"VzYgJTSIJJOWxK4C3rinf",
+         "Topic":"Dynamic Programming",
+         "Problem":"Optimal Binary Search Tree",
+         "Link":"https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"AAWv4F_k1hrfeuL8VsSWv",
+         "Topic":"Dynamic Programming",
+         "Problem":"Palindrome PartitioningProblem",
+         "Link":"https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"3RoBQBJ5tJbmy5HIdAAhH",
+         "Topic":"Dynamic Programming",
+         "Problem":"Word Wrap Problem",
+         "Link":"https://practice.geeksforgeeks.org/problems/word-wrap/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"z3UuqBO1jq2pRSLAeulgp",
+         "Topic":"Dynamic Programming",
+         "Problem":"Mobile Numeric Keypad Problem [ IMP ]",
+         "Link":"https://practice.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"URYG6AUVZ5qv-DY_7ExFG",
+         "Topic":"Dynamic Programming",
+         "Problem":"Boolean Parenthesization Problem",
+         "Link":"https://practice.geeksforgeeks.org/problems/boolean-parenthesization/0",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"5LigS9auD2ajEivQZCR0Z",
+         "Topic":"Dynamic Programming",
+         "Problem":"Largest rectangular sub-matrix whose sum is 0",
+         "Link":"https://www.geeksforgeeks.org/largest-rectangular-sub-matrix-whose-sum-0/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"KI0kGS75dcDs9QAf4kpo3",
+         "Topic":"Dynamic Programming",
+         "Problem":"Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]",
+         "Link":"https://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"ZRyleYYq0LyJ-HiHrPeOt",
+         "Topic":"Dynamic Programming",
+         "Problem":"Maximum sum rectangle in a 2D matrix",
+         "Link":"https://practice.geeksforgeeks.org/problems/maximum-sum-rectangle/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"Zrrh4u5ABwVAygvoJOnyg",
+         "Topic":"Dynamic Programming",
+         "Problem":"Maximum profit by buying and selling a share at most k times",
+         "Link":"https://practice.geeksforgeeks.org/problems/maximum-profit4657/1",
+         "Platform":"GFG",
+         "Difficulty":"Hard"
+      },
+      {
+         "id":"RyHq6tqHERS96FXLs5T70",
+         "Topic":"Dynamic Programming",
+         "Problem":"Find if a string is interleaved of two other strings",
+         "Link":"https://practice.geeksforgeeks.org/problems/interleaved-strings/1",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"pEnF5AIguYFfFg7hL_6wm",
+         "Topic":"Dynamic Programming",
+         "Problem":"Maximum Length of Pair Chain",
+         "Link":"https://leetcode.com/problems/maximum-length-of-pair-chain/",
+         "Platform":"Leetcode",
+         "Difficulty":"Medium"
+      }
+   ],
+   "BitManipulation":[
+      {
+         "id":"l3Fxzxdp-sR08ld4Q66DS",
+         "Topic":"Bit Manipulation",
+         "Problem":"Count set bits in an integer",
+         "Link":"https://practice.geeksforgeeks.org/problems/set-bits0143/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"54C7-OO5vPY5-cfPVZPk-",
+         "Topic":"Bit Manipulation",
+         "Problem":"Find the two non-repeating elements in an array of repeating elements",
+         "Link":"https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"uhWvVwcl4jEL371Mp_cs-",
+         "Topic":"Bit Manipulation",
+         "Problem":"Count number of bits to be flipped to convert A to B",
+         "Link":"https://practice.geeksforgeeks.org/problems/bit-difference/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"zZJEBvwXH75u96AhZxMmG",
+         "Topic":"Bit Manipulation",
+         "Problem":"Count total set bits in all numbers from 1 to n",
+         "Link":"https://practice.geeksforgeeks.org/problems/count-total-set-bits/0",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"XFQ0Ydi1cbKrThuTuJhN4",
+         "Topic":"Bit Manipulation",
+         "Problem":"Program to find whether a no is power of two",
+         "Link":"https://practice.geeksforgeeks.org/problems/power-of-2/0",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"AeSYEpHTx96IABFSoFSc9",
+         "Topic":"Bit Manipulation",
+         "Problem":"Find position of the only set bit",
+         "Link":"https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      },
+      {
+         "id":"PhuNnxpI8qjncRj1WSIB0",
+         "Topic":"Bit Manipulation",
+         "Problem":"Copy set bits in a range",
+         "Link":"https://www.geeksforgeeks.org/copy-set-bits-in-a-range/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"PiQoxokdLAvz2sDm612Rs",
+         "Topic":"Bit Manipulation",
+         "Problem":"Divide two integers without using multiplication, division and mod operator",
+         "Link":"https://www.geeksforgeeks.org/divide-two-integers-without-using-multiplication-division-mod-operator/",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"-JvCjF17U4rTxxWtsxKIS",
+         "Topic":"Bit Manipulation",
+         "Problem":"Calculate square of a number without using *, / and pow()",
+         "Link":"https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/#:~:text=Given%20an%20integer%20n%2C%20calculate,*%2C%20%2F%20and%20pow().&text=A%20Simple%20Solution%20is%20to%20repeatedly%20add%20n%20to%20result.",
+         "Platform":"GFG",
+         "Difficulty":"Medium"
+      },
+      {
+         "id":"usGp5lIFgvB1sll8gLtoF",
+         "Topic":"Bit Manipulation",
+         "Problem":"Power Set",
+         "Link":"https://practice.geeksforgeeks.org/problems/power-set4302/1",
+         "Platform":"GFG",
+         "Difficulty":"Easy"
+      }
+   ]
+}]

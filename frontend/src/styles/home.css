@@ -1,0 +1,17 @@
+.home-div {
+  min-height: 90.5vh;
+}
+
+.home-row {
+  height: 100%;
+}
+
+.search-bar-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-left-div {
+  background-color: #38B6FF;
+}

@@ -1,0 +1,45 @@
+.formDiv {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.new-question-heading {
+  margin-bottom: 45px;
+  color: #38B6FF;
+}
+
+.link-form {
+  display: flex;
+  flex-direction: row;
+}
+
+.fields {
+  margin-right: 5px;
+}
+
+.buttons {
+  margin-right: 5px;
+  border-radius: 30%;
+}
+
+.post-a-quesstion-button {
+  margin-top: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .formDiv {
+    width: 75%;
+  }
+
+  .new-question-heading {
+    font-size: 34px;
+    margin-bottom: 32px;
+  }
+
+  .post-a-quesstion-button {
+    margin-top: 11px;
+  }
+}

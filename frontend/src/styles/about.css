@@ -1,0 +1,38 @@
+.website-div {
+  margin-top: 6%;
+  text-align: center;
+}
+
+.website-div-heading {
+  color: #292b2c;
+}
+
+.website-div-image {
+  width: 200px;
+}
+
+.website-div-des {
+  font-size: 1.5rem;
+  color: #292b2c;
+}
+
+.developedBy-div {
+  justify-content: center;
+  margin-top: 7%;
+}
+
+.developedBy-div-heading {
+  font-size: 2rem;
+  color: #292b2c;
+}
+
+.developedBy-div-anchor {
+  color: #292b2c;
+  position: relative;
+  left: 2%;
+}
+
+.developedBy-div-anchor:hover {
+  color: black;
+  text-decoration: none;
+}

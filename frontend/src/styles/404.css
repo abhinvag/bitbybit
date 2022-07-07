@@ -1,0 +1,38 @@
+.div404 {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 90vh;
+}
+
+.div404-heading1 {
+  margin-top: 3%;
+  font-size: 3rem;
+  text-align: center;
+  color: #292b2c;
+}
+
+.div404-heading2 {
+  text-align: center;
+  font-size: 1rem;
+  margin-top: 1%;
+  color: #292b2c;
+  width: 100%;
+}
+
+.div404-img {
+  width: 300px;
+  border-radius: 0 !important;
+}
+
+.div404-anchor {
+  margin-left: 0.3%;
+  margin-right: 0.3%;
+  color: #292b2c;
+}
+
+.div404-anchor:hover {
+  color: #292b2c;
+  text-decoration: none;
+}

@@ -1,0 +1,25 @@
+.author-name {
+  color: grey;
+  font-size: 0.7rem;
+}
+
+.author-name:hover {
+  text-decoration: none;
+  color: rgb(77, 76, 76);
+}
+
+.comment {
+  color: #292b2c;
+  font-size: 0.9rem;
+  word-break: break-all;
+}
+
+.delete-button {
+  border: none;
+  background-color: white;
+  color: grey;
+}
+
+.delete-button:hover {
+  color: rgb(77, 76, 76);
+}

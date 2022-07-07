@@ -1,0 +1,39 @@
+.editor-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+  overflow: auto; 
+}
+
+.editor-content {
+  margin: 5% auto;
+  width: 60%;
+}
+
+.editor-markdown{
+  margin: 5% auto;
+}
+
+.button-div {
+  text-align: center;
+}
+
+/* .ql-snow {
+  height: 300px;
+}
+
+.ql-toolbar {
+  height: 20%;
+}
+
+.ql-bubble {
+  font-size: 18px;
+}
+
+.ql-snow .ql-editor pre.ql-syntax {
+  background-color: #edf6e5;
+  color: #000;
+  overflow: visible;
+} */
