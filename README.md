@@ -44,7 +44,6 @@ CLIENT_SECRET=''
 
 ## ToDo
 
-- Cron Job Scheduler
 - Add More Sheets
 - Make backend routes protected
 - convert css to sass
