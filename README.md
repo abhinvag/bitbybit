@@ -1,13 +1,22 @@
 # BitByBit
 
+A Interview Preparation Helper
+
 ## Features
 
 - Add a question you want answer to.
-- Answer a existing question to gain points.
+- Answer a existing question using simple markdown editor to gain points.
 - Search question for answers from fellow programmers.
 - Ask you doubt in comment section of every answer.
 - Simple Login/Logout using Google.
+- Solve various DSA sheets, and track your progress with analytics tool.
+- Get a daily question form curated list problems by your favourite influencers.
 - Flex your profile by directly sharing your public profile link
+
+### Upcoming
+
+- More DSA sheets will be added
+- Online C++ Compiler
 
 ## How to Run Locally
 
@@ -32,21 +41,21 @@ npm run dev
 ATLAS_URI=''
 CLIENT_ID=''
 CLIENT_SECRET=''
+NODE_ENV="development"
 ```
 
 ## Tech Used
 
+### Frontend
+
+- HTML/CSS/Javascript
+- Bootstrap
 - ReactJs
+- Redux
+
+### Backend
+
 - ExpressJs
 - NodeJs
 - MongoDB
-- Redux
-
-## ToDo
-
-- Add More Sheets
-- Make backend routes protected
-- convert css to sass
-- comment notification
-- peer to peer chat
-- add inbuilt compiler
+- Node Scheduler
